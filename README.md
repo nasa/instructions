@@ -4,7 +4,7 @@
 This organization is intended to publicly host NASA code that has been SRA-approved for open source. 
 
 ## Who
-Only NASA staff can release code in github.com/nasa org. 
+Only NASA staff can release code in [github.com/nasa](https://github.com/nasa) org. 
 
 ## How
 For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on <a href="https://code.nasa.gov/#/guide"> code.nasa.gov/#/guide</a>.
@@ -32,11 +32,11 @@ Please reach out to us if you have any questions.
 ## Related Information & Sites
 
 #### Please make sure any repos added here are also tracked in code.nasa.gov! 
-In addition to being a congressional mandate, these will then get harvested into code.gov enabling tracking of government written code provided to the public. 
+In addition to being a congressional mandate, these will then get harvested into [code.gov](https://code.gov/) enabling tracking of government written code provided to the public. 
 
 #### Other Related Sites
-- code.nasa.gov
-- open.nasa.gov
-- data.nasa.gov
-- api.nasa.gov
-- nasa.gov/data
+- [code.nasa.gov](https://code.nasa.gov)
+- [data.nasa.gov](https://data.nasa.gov)
+- [api.nasa.gov](https://api.nasa.gov)
+- [open.nasa.gov](https://open.nasa.gov)
+- [nasa.gov/data](https://nasa.gov/data)
