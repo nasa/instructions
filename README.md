@@ -3,7 +3,7 @@
 ## Purpose
 This organization is intended to publicly host NASA code that has been SRA-approved for open source. 
 
-PLEASE REFER TO THE github pages page for this repository for full information!!!! http://nasa.github.io/
+<b><i>If you are a NASA staff member, please check out these instructions for adding a code repository or getting made a collaborator: http://nasa.github.io/</i></b>
 
 ## Owners
 We currently have two active owners in the org:
