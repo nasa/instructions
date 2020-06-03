@@ -8,7 +8,7 @@ This organization is intended to publicly host NASA code that has been SRA-appro
 ## Visualizations of NASA Code
 An exploration of user engagement with NASA code repositories. Use this to find out which code has active development and might be good place to submit a pull request! https://observablehq.com/@justingosses/public-engagement-with-nasas-open-source-code-projects-on-g?collection=@justingosses/nasa-metadata
 
-A collection of data explorations on observable using NASA open-source code matadata: https://observablehq.com/collection/@justingosses/nasa-metadata
+A collection of data explorations on observable using NASA open-source code metadata: https://observablehq.com/collection/@justingosses/nasa-metadata
 
 ## Owners
 We currently have two active owners in the org:
