@@ -1,38 +1,55 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'DM Sans', 'Arial', sans-serif;
+    margin: max(10vw, 20px);
 }
 
-.button {
-    border: none;
-    color: white;
-    padding: 16px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
+header {
+    width: calc(min(80vw, calc(100% - 40px)) + 8px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    padding: 20px 4px;
+    position: fixed;
+    top: 0;
+    left: calc(max(10vw, 20px) - 4px);
+    background: #ffffffa0;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(2px);
+    box-sizing: border-box;
 }
-        
-.button1 {
-    background-color: white; 
-    color: black; 
-    border: 2px solid black;
+
+#separator {
+    width: 100%;
+    margin-bottom: 100px;
 }
-        
-.button1:hover {
-    background-color: #595959;
-    color: white;
+
+header div:nth-child(1) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
-        
-.button2 {
-    background-color: white; 
-    color: black; 
-    border: 2px solid #008CBA;
+
+header img {
+  height: 40px;
 }
-        
-.button2:hover {
-    background-color: #008CBA;
-    color: white;
+
+header span {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: 'DM Mono', monospace;
+}
+
+header a {
+    color: #000000;
+    margin: 10px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+a {
+  color: #0f8cf2;
 }

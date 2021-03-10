@@ -4,19 +4,45 @@
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="stylesheet" href="/index.css"/>
+        <link
+            rel="preload"
+            as="style"
+            href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+            onload="this.rel='stylesheet';"
+        />
+        <link
+            rel="preload"
+            as="style"
+            href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+            onload="this.rel='stylesheet';"
+        />
+        <noscript>
+            <!-- To support older browser with JS disabled, we load the fonts the old way: -->
+            <link
+                rel="stylesheet"
+                href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+            />
+            <link
+                rel="stylesheet"
+                href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+            />
+        </noscript>
         <title>NASA's Public Github Organization</title>
     </head>
     <body>
-        <h1 id="nasaspublicgithuborganization">NASA's Public GitHub Organization</h1>
-        <button class="button button1"
-            onClick="document.getElementById('purpose').scrollIntoView();">Purpose</button>
-        <button class="button button1"
-            onClick="document.getElementById('instructions').scrollIntoView();">Instructions</button>
-        <button class="button button1"
-            onClick="document.getElementById('related').scrollIntoView();">Related
-            Sites</button>
-        <button class="button button1"
-            onClick="document.getElementById('questions').scrollIntoView();">Questions</button>
+        <header>
+            <div>
+                <img alt="NASA" src="/worm_logo.svg"/>
+                <span>Open·Source</span>
+            </div>
+            <div>
+                <a href="#purpose">Purpose</a>
+                <a href="#instructions">Instructions</a>
+                <a href="#related">Related Sites</a>
+                <a href="#questions">Questions</a>
+            </div>
+        </header>
+        <div id="separator"></div>
         <h2 id="purpose">Purpose</h2>
         <p>
             This organization is intended to publicly host NASA code that has
