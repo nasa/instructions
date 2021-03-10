@@ -1,147 +1,284 @@
-<head>
-    <style>
-        .button {
-          border: none;
-          color: white;
-          padding: 16px 32px;
-          text-align: center;
-          text-decoration: none;
-          display: inline-block;
-          font-size: 16px;
-          margin: 4px 2px;
-          transition-duration: 0.4s;
-          cursor: pointer;
-        }
-        
-        .button1 {
-          background-color: white; 
-          color: black; 
-          border: 2px solid black;
-        }
-        
-        .button1:hover {
-          background-color: #595959;
-          color: white;
-        }
-        
-        .button2 {
-          background-color: white; 
-          color: black; 
-          border: 2px solid #008CBA;
-        }
-        
-        .button2:hover {
-          background-color: #008CBA;
-          color: white;
-        }
-        
-        </style>
-</head>
-<body style="margin:2em;font-family: Arial, sans-serif;">
-<h1 id="nasaspublicgithuborganization">NASA's Public GitHub Organization</h1>
-<button class="button button1" onClick="document.getElementById('purpose').scrollIntoView();">Purpose</button>
-<button class="button button1" onClick="document.getElementById('instructions').scrollIntoView();">Instructions</button>
-<button class="button button1" onClick="document.getElementById('related').scrollIntoView();">Related Sites</button>
-<button class="button button1" onClick="document.getElementById('questions').scrollIntoView();">Questions</button>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" href="/index.css"/>
+        <title>NASA's Public Github Organization</title>
+    </head>
+    <body>
+        <h1 id="nasaspublicgithuborganization">NASA's Public GitHub Organization</h1>
+        <button class="button button1"
+            onClick="document.getElementById('purpose').scrollIntoView();">Purpose</button>
+        <button class="button button1"
+            onClick="document.getElementById('instructions').scrollIntoView();">Instructions</button>
+        <button class="button button1"
+            onClick="document.getElementById('related').scrollIntoView();">Related
+            Sites</button>
+        <button class="button button1"
+            onClick="document.getElementById('questions').scrollIntoView();">Questions</button>
+        <h2 id="purpose">Purpose</h2>
+        <p>
+            This organization is intended to publicly host NASA code that has
+            been
+            SRA-approved for open source.
+            You can review the SRA (software release authority) process for
+            getting
+            open-source approval on
+            <a href="https://code.nasa.gov/#/guide">https://code.nasa.gov/#/guide</a>.
+        </p>
 
-<h2 id="purpose">Purpose</h2>
-<p>This organization is intended to publicly host NASA code that has been SRA-approved for open source. You can review the SRA (software release authority) process for getting open-source approval on <a href="https://code.nasa.gov/#/guide">https://code.nasa.gov/#/guide</a>.</p>
+        <h3 id="Who">Who Can Be a Member</h3>
+        <p>
+            <b>Only NASA staff can be a member of the NASA org on github.com and
+                release code in
+                <a href="https://github.com/nasa">github.com/nasa</a> org.</b>
+        </p>
+        <p>
+            If you are a NASA employee and would like to be added to the Public
+            NASA
+            GitHub Org, you will need to
+            submit the <strong>AGCY NASA Github Collaborator Form</strong> NAMS
+            request
+            (<a href="https://nams.nasa.gov">https://nams.nasa.gov</a>).
+        </p>
+        <p>
+            Only members have rights to directly edit code in a github.com/nasa
+            repository. Everyone else will need
+            to submit a pull request. <strong style="color:red">We highly
+                encourage
+                pull requests from the public!!!</strong>.
+            However, please note that not all repositories are actively
+            maintained.</p>
+        <p>Members of the public can not attain and do not need collaborator
+            status.
+            You don't need any special status to submit pull requests or add
+            issues.</p>
+        <h3 id="How">How</h3>
+        <p>
+            For information on how to become a member of the NASA Org (you need
+            to be
+            a NASA civil servant or
+            contractor with access to systems inside the NASA firewall), please
+            see
+            the instructions on
+            <a href="https://code.nasa.gov/#/guide">code.nasa.gov/#/guide</a>.
+            Additionally, see
+            "<a href="#process">Request Process</a>" below.
+        </p>
+        <!-- <p>
+            Employees or contractors of another federal agency that are working closely on a code project and absolutely
+            need collaborator status can get collaborator status by attaining a <a href="https://guest.nasa.gov/">NASA guest account</a>.
+            Please use your gov piv identity if possible. Your NASA contact can than request collaborator status for you in the NAMs system.</p>
+        -->
+        <h2 id="instructions" style="margin-top:2em;">Instructions for NASA Org
+            on
+            Github.com Once You Are a Member</h2>
+        <p>
+            To ensure mandatory policies are followed, NASA org members are not
+            given
+            the full admin rights you might be used
+            to on your personal github.com accounts. However, by using teams,
+            team
+            owners, collaborators, and outside collaborators
+            roles we can make the experience pretty quick and easy.
+        </p>
 
-<h3 id="Who">Who Can Be a Member</h3>
-<p><b>Only NASA staff can be a member of the NASA org on github.com and release code in <a href="https://github.com/nasa">github.com/nasa</a> org.</b></p>
-<p>If you are a NASA employee and would like to be added to the Public NASA GitHub Org, you will need to submit the <strong>AGCY NASA Github Collaborator Form</strong> NAMS request (<a href="https://nams.nasa.gov">https://nams.nasa.gov</a>).</p>
-<p>Only members have rights to directly edit code in a github.com/nasa repository. Everyone else will need to submit a pull request. <strong style="color:red">We highly encourage pull requests from the public!!!</strong>. However, please note that not all repositories are actively maintained.</p>
-<p>Members of the public can not attain and do not need collaborator status. You don't need any special status to submit pull requests or add issues.</p>
+        <h3 id="owners">Org Owners</h3>
+        <p>Only org owners have the ability to create new repositories and bring
+            new
+            users in as members of the NASA github org. </p>
 
+        <p>We currently have two active owners in the org:</p>
+        <ul>
+            <li>Taylor Yates (<a href="mailto:evan.t.yates@nasa.gov">evan.t.yates@nasa.gov</a>)</li>
+            <li>Justin Gosses (<a href="mailto:justin.c.gosses@nasa.gov">justin.c.gosses@nasa.gov</a>)</li>
+        </ul>
 
-<h3 id="How">How</h3>
-<p>For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on <a href="https://code.nasa.gov/#/guide">code.nasa.gov/#/guide</a>. Additionally, see "<a href="#process">Request Process</a>" below.</p>
-<!-- <p>Employees or contractors of another federal agency that are working closely on a code project and absolutely need collaborator status can get collaborator status by attaining a <a href="https://guest.nasa.gov/">NASA guest account</a>. Please use your gov piv identity if possible. Your NASA contact can than request collaborator status for you in the NAMs system.</p>
- -->
+        <h3 id="repos">Repos</h3>
+        <p>
+            We do not give out admin rights on any NASA Github repos for reasons
+            stated above. If you want a new repo created or
+            want to edit settings on an existing repo that require admin access,
+            please contact one of our org owners. Without admin
+            rights on a repository, you'll still be able to make any code
+            changes
+            yourself as long as you're a collaborator on that
+            repository or a member of a team whose participants are
+            collaborators by
+            default.
+        </p>
 
-<h2 id="instructions" style="margin-top:2em;">Instructions for NASA Org on Github.com Once You Are a Member</h2>
-To ensure mandatory policies are followed, NASA org members are not given the full admin rights you might be used to on your personal github.com accounts. However, by using teams, team owners, collaborators, and outside collaborators roles we can make the experience pretty quick and easy.
+        <p>
+            If you need for a new repository (and it has gotten SRA approval)
+            please
+            either submit a modification to your NAMs request
+            or email one of the Org Owners with the follwing information:
+        </p>
 
-<h3 id="owners">Org Owners</h3>
-<p>Only org owners have the ability to create new repositories and bring new users in as members of the NASA github org. </p>
+        <ul>
+            <li>Name of the repository</li>
+            <li>SRA number</li>
+            <li>Team name for managing the repository</li>
+            <li>Usernames of people for that team if it doesn't already exist.
+                Usernames must be from the list of existing NASA org members.</li>
+        </ul>
 
-<p>We currently have two active owners in the org:</p>
-<ul>
- <li>Taylor Yates (<a href="mailto:evan.t.yates@nasa.gov">evan.t.yates@nasa.gov</a>)</li>
- <li>Justin Gosses (<a href="mailto:justin.c.gosses@nasa.gov">justin.c.gosses@nasa.gov</a>)</li>
-</ul>
-
-
-<h3 id="repos">Repos</h3>
-<p>We do not give out admin rights on any NASA Github repos for reasons stated above. If you want a new repo created or want to edit settings on an existing repo that require admin access, please contact one of our org owners. Without admin rights on a repository, you'll still be able to make any code changes yourself as long as you're a collaborator on that repository or a member of a team whose participants are collaborators by default.</p>
-
-<p>If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request or email one of the Org Owners with the follwing information: </p>
-
-<ul>
- <li>Name of the repository</li>
- <li>SRA number</li>
- <li>Team name for managing the repository</li>
- <li>Usernames of people for that team if it doesn't already exist. Usernames must be from the list of existing NASA org members.</li>
-</ul>
-
-<p>If you are joining for the first time and need a repository created, you can also include the same information in your NAMs request for access inside the more information box.<p>
-
-
-<h3 id="teams">Teams</h3>
-<p>Teams are effective ways of managing repository access privileges for an entire group of users. Only org owners can create and remove teams, but we now allow users to be team maintainers. Team maintainers have permissions to add and remove users to their teams from the population of people who are already NASA org members.</p>
-<p><strong>Note</strong>: Team maintainers are <em>technically</em> able to add a user who was once in the NASA org back onto their team (thus reinstating the user in the org). However, we <strong>do not allow this</strong> and will remove maintainers who are found in violation. If you need a past member to be reinstated in the org, contact an org owner and request to be added as an outside collaborator.</p>
-
-<h3 id="collaborators">Collaborators</h3>
-
-<p>Github also has a role called "collaborator". This is someone who doesn't have repository ownership or admin rights but can push edits to code directly without doing a pull request.</p>
-<p>If you would like to add a NASA staff member who is a member of the NASA org as a collaborator on a single repository, we still suggest you contact the NASA org owners mentioned above about setting up a TEAM for that single repository instead of adding people one by one. Teams result in less requestes (and therefore waiting) on NASA org owners for actions. We are sorry you don't have normal full ownership rights. It is because everyone with write access needs to be approved NASA user. If you had normal repository owner right, you could add any github user. </p>
-
-
-<h3 id="outsidecollaborators">Outside Collaborators</h3>
-<p>Only on a rare case-by-case basis we will allow non-NASA users to be added to the org as Outside Collaborators. You can collaborate without this status via forks, branches, and pull-requests. If you fork a repository, you can make changes and then submit back a pull-request. A repository maintainer can then approve those changes. You do not need formal outside-collaborator status for this!</p>
-
-<p>Please reach out to us if you have any questions.</p>
-
-<h3 id="process">Request Process</h3>
-<p><b>Need:</b> If you need to be added to the NASA org on github.com/</p>
-<p><b>Process:</b> Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request.</p>
-<p><b>Need:</b> If you need to add a new open-sourced repository to github.com/nasa that has already been approved via the <a href="https://code.nasa.gov/#/guide">software release authority process</a>.</p>
-<p><b>Process:</b> Make or modify a request to start a new repository in github.com/nasa via the <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into.</p>
-<p><b>Need:</b> If you need to create a new team for managing who has access to make changes on a particular repository or group of repositories.</p>
-<p><b>Process:</b> Modify your <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a> to request the team creation or email the two owners above. Give team name and which repositories team members should be given access to.</p>
-<p><b>Need:</b> If you need to add a new member to an already established team.</p>
-<p><b>Process:</b> Send an email to the Team owner, modify your NAMs request, or email the Github Owners in that order of preference.</p>
-
-
-<h1 id="related" style="margin-top:2em;">Related Sites</h1>
-
-<h3>Organizationally Related Sites</h3>
-<ul>
-<b>In addition to github.com/nasa, NASA OCIO's Transformation and Data Division Open-Innovation staff also run:</b>
-<li><a href="https://code.nasa.gov">code.nasa.gov</a></li>
-<li><a href="https://data.nasa.gov">data.nasa.gov</a></li>
-<li><a href="https://api.nasa.gov">api.nasa.gov</a></li>
-<li><a href="https://open.nasa.gov">open.nasa.gov</a></li>
-<li><a href="https://nasa.gov/data">nasa.gov/data</a></li>
-</ul>
-
-<h3> Why Multiple Sites About NASA's Open-Source Code?</h3>
-<p>The reason for NASA open source code existing in different places boils down to different requirements, both requirements of those writing the code and requirements from above.</p>
-<p>Note that code.nasa.gov & software.nasa.gov are not code repositories but rather hold metadata and links to the actual code.</p>
-
-<h4>Code.nasa.gov</h4>
-<p>Code.nasa.gov feeds into https://code.gov , which holds open source code from across all federal government agencies. It is mandated by Congress and only holds standardized metadata about the code.</p>
-<p>Code.nasa.gov only shows open-source software. For government-source and patented software, see software.nasa.gov</p>
-<p style="color:red">Please make sure any repos added to github.com/nasa are also tracked in code.nasa.gov! </p>
-<h4>Software.nasa.gov</h4>
-<p>Software.nasa.gov is part of the larger <a href="https://technology.nasa.gov/">https://technology.nasa.gov/</a> that also covers patents and spinoffs. The NASA's Technology Transfer Program ensures that innovations developed for exploration and discovery are broadly available to the public, maximizing the benefit to the Nation. Whether you're looking to start a new company, enhance an existing product, or create a new product line, you can gain a competitive edge in the marketplace by putting NASA technology to work for you.</p>
-<p>The information on software.nasa.gov is presented in a way that leverages NASA's technology taxonomy, so if you want to see an aggregate view of NASA software categories, it is a good place to visit.</p>
-<p>It also includes some older software products that are only available as downloadable zip files as well as software that must be requested individually as they are only open to US persons or are tied to a patent.</p>
-<h4>Other NASA orgs on github.com or gitlab.com or bitbucket</h4>
-<p>Although NASA staff are highly encouraged to release open source software on github.com/nasa as that is where most people look so it ensures higher potential reuse, they are not absolutely required to use that org account. A common reason code my exist under other orgs is that the software is jointly maintained by non-NASA persons or the code was developed by non-NASA persons through a NASA grant.</p>
-<p>To encourage disoverability, please use the <a href="https://github.com/search?q=nasa&type=topics">#NASA topic tag</a> on any GitHub or GitLab repositories not under github.com/nasa.</p>
+        <p>
+            If you are joining for the first time and need a repository created,
+            you
+            can also include the same information in your NAMs request
+            for access inside the more information box.
+        </p>
 
 
-<h1 id="questions" style="margin-top:2em;">Questions?</h1>
-<p>In addition to the emails listed above, you may leave an <a href="https://github.com/nasa/nasa.github.io/issues">issue</a> on this repository. We will use those questions & answers to eventually make a FAQ section on this page.</p>
-</body>
+        <h3 id="teams">Teams</h3>
+        <p>
+            Teams are effective ways of managing repository access privileges
+            for
+            an entire group of users. Only org owners can create and
+            remove teams, but we now allow users to be team maintainers. Team
+            maintainers have permissions to add and remove users to their
+            teams from the population of people who are already NASA org
+            members.
+        </p>
+        <p><strong>Note</strong>: Team maintainers are <em>technically</em> able
+            to add a user who was once in the NASA org back onto their team
+            (thus
+            reinstating the user in the org). However, we <strong>do not allow
+                this</strong> and will remove maintainers who are found in
+            violation. If you need a past member to be reinstated in the org,
+            contact an org owner and request to be added as an outside
+            collaborator.</p>
+
+        <h3 id="collaborators">Collaborators</h3>
+
+        <p>Github also has a role called "collaborator". This is someone who
+            doesn't have repository ownership or admin rights but can push edits
+            to code directly without doing a pull request.</p>
+        <p>If you would like to add a NASA staff member who is a member of the
+            NASA org as a collaborator on a single repository, we still suggest
+            you contact the NASA org owners mentioned above about setting up a
+            TEAM for that single repository instead of adding people one by one.
+            Teams result in less requestes (and therefore waiting) on NASA org
+            owners for actions. We are sorry you don't have normal full
+            ownership
+            rights. It is because everyone with write access needs to be
+            approved
+            NASA user. If you had normal repository owner right, you could add
+            any
+            github user. </p>
+
+
+        <h3 id="outsidecollaborators">Outside Collaborators</h3>
+        <p>Only on a rare case-by-case basis we will allow non-NASA users to be
+            added to the org as Outside Collaborators. You can collaborate
+            without
+            this status via forks, branches, and pull-requests. If you fork a
+            repository, you can make changes and then submit back a
+            pull-request.
+            A repository maintainer can then approve those changes. You do not
+            need formal outside-collaborator status for this!</p>
+
+        <p>Please reach out to us if you have any questions.</p>
+
+        <h3 id="process">Request Process</h3>
+        <p><b>Need:</b> If you need to be added to the NASA org on github.com/</p>
+        <p><b>Process:</b> Create a personal github account and then request to
+            be added as a Github Collaborator via a new or modified <a
+                href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>.
+            Please include your github id in the request.</p>
+        <p><b>Need:</b> If you need to add a new open-sourced repository to
+            github.com/nasa that has already been approved via the <a
+                href="https://code.nasa.gov/#/guide">software release authority
+                process</a>.</p>
+        <p><b>Process:</b> Make or modify a request to start a new repository in
+            github.com/nasa via the <a
+                href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>.
+            Please give it a useful name and good documentation! We'll create a
+            blank repository for you to put the code into.</p>
+        <p><b>Need:</b> If you need to create a new team for managing who has
+            access to make changes on a particular repository or group of
+            repositories.</p>
+        <p><b>Process:</b> Modify your <a
+                href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>
+            to
+            request the team creation or email the two owners above. Give team
+            name and which repositories team members should be given access to.</p>
+        <p><b>Need:</b> If you need to add a new member to an already
+            established team.</p>
+        <p><b>Process:</b> Send an email to the Team owner, modify your NAMs
+            request, or email the Github Owners in that order of preference.</p>
+        <h1 id="related" style="margin-top:2em;">Related Sites</h1>
+
+        <h3>Organizationally Related Sites</h3>
+        <ul>
+            <b>In addition to github.com/nasa, NASA OCIO's Transformation and
+                Data
+                Division Open-Innovation staff also run:</b>
+            <li><a href="https://code.nasa.gov">code.nasa.gov</a></li>
+            <li><a href="https://data.nasa.gov">data.nasa.gov</a></li>
+            <li><a href="https://api.nasa.gov">api.nasa.gov</a></li>
+            <li><a href="https://open.nasa.gov">open.nasa.gov</a></li>
+            <li><a href="https://nasa.gov/data">nasa.gov/data</a></li>
+        </ul>
+
+        <h3> Why Multiple Sites About NASA's Open-Source Code?</h3>
+        <p>The reason for NASA open source code existing in different places
+            boils down to different requirements, both requirements of those
+            writing the code and requirements from above.</p>
+        <p>Note that code.nasa.gov &amp; software.nasa.gov are not code
+            repositories
+            but rather hold metadata and links to the actual code.</p>
+
+        <h4>Code.nasa.gov</h4>
+        <p>Code.nasa.gov feeds into https://code.gov , which holds open source
+            code from across all federal government agencies. It is mandated by
+            Congress and only holds standardized metadata about the code.</p>
+        <p>Code.nasa.gov only shows open-source software. For government-source
+            and patented software, see software.nasa.gov</p>
+        <p style="color:red">Please make sure any repos added to github.com/nasa
+            are also tracked in code.nasa.gov! </p>
+        <h4>Software.nasa.gov</h4>
+        <p>Software.nasa.gov is part of the larger <a
+                href="https://technology.nasa.gov/">https://technology.nasa.gov/</a>
+            that also covers patents and spinoffs. The NASA's Technology
+            Transfer
+            Program ensures that innovations developed for exploration and
+            discovery are broadly available to the public, maximizing the
+            benefit
+            to the Nation. Whether you're looking to start a new company,
+            enhance
+            an existing product, or create a new product line, you can gain a
+            competitive edge in the marketplace by putting NASA technology to
+            work
+            for you.</p>
+        <p>The information on software.nasa.gov is presented in a way that
+            leverages NASA's technology taxonomy, so if you want to see an
+            aggregate view of NASA software categories, it is a good place to
+            visit.</p>
+        <p>It also includes some older software products that are only available
+            as downloadable zip files as well as software that must be requested
+            individually as they are only open to US persons or are tied to a
+            patent.</p>
+        <h4>Other NASA orgs on github.com or gitlab.com or bitbucket</h4>
+        <p>Although NASA staff are highly encouraged to release open source
+            software on github.com/nasa as that is where most people look so it
+            ensures higher potential reuse, they are not absolutely required to
+            use that org account. A common reason code my exist under other orgs
+            is that the software is jointly maintained by non-NASA persons or
+            the
+            code was developed by non-NASA persons through a NASA grant.</p>
+        <p>To encourage disoverability, please use the <a
+                href="https://github.com/search?q=nasa&type=topics">#NASA topic
+                tag</a>
+            on any GitHub or GitLab repositories not under github.com/nasa.</p>
+        <h1 id="questions" style="margin-top:2em;">Questions?</h1>
+        <p>In addition to the emails listed above, you may leave an <a
+                href="https://github.com/nasa/nasa.github.io/issues">issue</a>
+            on
+            this repository. We will use those questions &amp; answers to
+            eventually
+            make a FAQ section on this page.</p>
+    </body>
+</html>
