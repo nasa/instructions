@@ -53,3 +53,94 @@ p {
 a {
   color: #0f8cf2;
 }
+
+blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
+    margin-bottom: 0;
+  }
+  
+  blockquote footer, blockquote small, blockquote .small {
+    display: block;
+    font-size: 80%;
+    line-height: 1.42857143;
+    color: #999;
+  }
+  
+  blockquote footer:before, blockquote small:before, blockquote .small:before {
+    content: "— ";
+  }
+  
+  .blockquote-reverse, blockquote.pull-right {
+    padding-right: 15px;
+    padding-left: 0;
+    border-right: 5px solid #eee;
+    border-left: 0;
+    text-align: right;
+  }
+  
+  .blockquote-reverse footer:before, blockquote.pull-right footer:before, .blockquote-reverse small:before, blockquote.pull-right small:before, .blockquote-reverse .small:before, blockquote.pull-right .small:before {
+    content: "";
+  }
+  
+  .blockquote-reverse footer:after, blockquote.pull-right footer:after, .blockquote-reverse small:after, blockquote.pull-right small:after, .blockquote-reverse .small:after, blockquote.pull-right .small:after {
+    content: " —";
+  }
+
+
+
+
+
+  #footer {
+    width: 100%;
+    background: #fff;
+    padding: 1.25em 0.7em 3em;
+    overflow: hidden;
+  }
+  
+  #footer-info .logo {
+    float: left;
+  }
+  #footer-info .logo img {
+    width: 80px;
+  }
+  #footer-info #status {
+    clear: left;
+    margin: 1em 0;
+    line-height: 1.2em;
+  }
+  #footer-info #status > span {
+    display: block;
+    color: black;
+    font-weight: 300;
+    margin: 0;
+    font-size: 0.95em;
+    /* font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif; */
+  }
+  
+  #footer-links {
+    margin: 20px 0;
+    padding-left: 0;
+  }
+  #footer-links li {
+    display: inline-block;
+    width: 100%;
+  }
+  #footer-links li a {
+    font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    color: #5d7fb9;
+    font-weight: bold;
+    font-size: 0.9em;
+  }
+  
+  @media (min-width: 1101px) {
+    #footer #footer-info #status {
+      clear: none;
+    }
+    #footer #footer-links {
+      float: right;
+    }
+    #footer #footer-links li {
+      padding-left: 30px;
+      display: inline-block;
+      width: auto;
+    }
+  }
