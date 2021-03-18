@@ -3,6 +3,10 @@ body {
     margin: max(10vw, 20px);
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 header {
     width: calc(min(80vw, calc(100% - 40px)) + 8px);
     display: flex;
