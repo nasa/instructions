@@ -55,7 +55,7 @@ p {
 }
 
 a {
-  color: #0f8cf2;
+  color: #0d78d0;
 }
 
 blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
@@ -130,7 +130,7 @@ blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
   }
   #footer-links li a {
     font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
-    color: #5d7fb9;
+    color: #5776ad;
     font-weight: bold;
     font-size: 0.9em;
   }
