@@ -1,7 +1,7 @@
 # NASA's Public GitHub Organization
 
 ## Purpose
-The github.com/nasa organizational account is intended to publicly host NASA code that has been SRA-approved for open source. 
+The [github.com/nasa](https://github.com/nasa/) organizational account is intended to publicly host NASA code that has been SRA-approved for open source. 
 
 # IF YOU ARE LOOKING FOR INFORMATION, PLEASE CHECK OUT THE GITHUB PAGES PAGE CREATED BY THIS REPO https://nasa.github.io/
 
