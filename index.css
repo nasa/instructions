@@ -89,7 +89,9 @@ blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child {
     content: " —";
   }
 
-
+.highlight-red {
+  color: #ee0000;
+}
 
 
 
