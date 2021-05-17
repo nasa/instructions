@@ -57,7 +57,7 @@ Only on a rare case-by-case basis we will allow non-NASA users to be added to th
 
 Please reach out to us if you have any questions.
 
-#### Common Request & Process Combinations
+### Common Request & Process Combinations
 Need: If you need to be added to the NASA org on github.com/
 
 Process: Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
@@ -73,6 +73,9 @@ Process: Modify your <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs req
 Need: If you need to add a new member to an already established team.
 
 Process: Send an email to the Team owner, modify your NAMs request, or email the Github Owners in that order of preference.
+
+### Why is this now just a markdown file instead of a website
+There was some concern over a website with NASA related information that is not purely documentation for an open sourced code project on github.com/nasa with a domain ending that is not nasa.gov. Hence, the instructions for use of github.com/nasa on https://nasa.github.io/ was shifted to this markdown file that is not a website but rather a file. Apologies to those who submitted pull requests to improve the old site.
 
 ## Related Sites
 ### Organizationally Related Sites
