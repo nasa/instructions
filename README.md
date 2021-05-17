@@ -3,9 +3,9 @@
 ## Purpose
 The [github.com/nasa](https://github.com/nasa/) organizational account is intended to publicly host NASA code that has been SRA-approved (Software Release Authority) for open source. 
 
-# IF YOU ARE LOOKING FOR INFORMATION & INSTRUCTIONS, PLEASE CHECK OUT https://nasa.github.io/
+# IF YOU ARE LOOKING FOR INFORMATION & INSTRUCTIONS ON GITHUB.COM/NASA, PLEASE CHECK OUT https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md
 
-## What makes up https://nasa.github.io/
+#### Where old site went to?
 Please note that active development has shifted away from https://github.com/nasa/nasa.github.io/blob/master/index.html and to https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md
 
 ## Owners
