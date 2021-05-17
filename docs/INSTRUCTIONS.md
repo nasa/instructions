@@ -8,7 +8,7 @@ This GitHub organization is intended to publicly host NASA code that has been SR
 ## Instructions: Who Can Be a Member
 Only NASA staff can be a member of the NASA org on github.com and release code in github.com/nasa org.
 
-If you are a NASA civil servant or contractor and would like to be added to the Public NASA GitHub Org, you will need to submit the AGCY NASA Github Collaborator Form NAMS request (https://nams.nasa.gov). This requires you to be behind the NASA firewall. If you were a member several years ago and recently found you are no longer a member, please see this note.
+If you are a NASA civil servant or contractor and would like to be added to the Public NASA GitHub Org, you will need to submit the AGCY NASA Github Collaborator Form NAMS request (https://nams.nasa.gov). This requires you to be behind the NASA firewall. If you were a member several years ago and recently found you are no longer a member, please see this <a href="https://github.com/nasa/nasa.github.io/issues/2">note</a>.
 
 Only members have rights to directly edit code in a github.com/nasa repository. Everyone else will need to submit a pull request. We highly encourage pull requests from the public!!! However, please note that not all repositories are actively maintained.
 
