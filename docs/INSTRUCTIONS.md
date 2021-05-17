@@ -1,3 +1,7 @@
+![image of NASA logo](http://nasa.github.io/assets/NASA_logo.svg)
+
+# INSTRUCTIONS FILE FOR NASA's PUBLIC GITHUB ORGANIZATION
+
 ## Purpose
 This GitHub organization is intended to publicly host NASA code that has been SRA-approved for open source. You can review the SRA (software release authority) process for getting open-source approval on https://code.nasa.gov/#/guide.
 
