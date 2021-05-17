@@ -101,6 +101,9 @@ Please make sure any repos added to github.com/nasa are also tracked in code.nas
 
 Code.nasa.gov uses both human and A.I. generated tags to help users find NASA open source that is useful for their goals.
 
+![image of sreenshot of code.nasa.gov showing details for Open MCT project](**http://nasa.github.io/assets/NASA_logo.svg**)
+
+
 Screenshot of NASA's project OPEN MCT
 
 #### Software.nasa.gov
@@ -111,9 +114,10 @@ The information on software.nasa.gov is presented in a way that leverages NASA's
 
 It also includes some older software products that are only available as downloadable zip files as well as software that must be requested individually as they are only open to US persons or are tied to a patent.
 
+![image of sreenshot of software.nasa.gov showing the categories of NASA software](**http://nasa.github.io/assets/software.png**)
 Screenshot of NASA's software categories
 
 
 ## Questions?
-In addition to the emails listed above, you may leave an issue on this repository. We will use those questions & answers to eventually make a FAQ section on this page.
+If you have questions, you may leave an issue on this repository or contact us via <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>. We will use those questions & answers to eventually make a FAQ section on this page.
 
