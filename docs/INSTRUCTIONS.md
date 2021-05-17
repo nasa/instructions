@@ -75,11 +75,11 @@ Process: Send an email to the Team owner, modify your NAMs request, or email the
 ## Related Sites
 ### Organizationally Related Sites
 In addition to github.com/nasa, NASA OCIO's Transformation and Data Division Open-Innovation staff also run:
-code.nasa.gov
-data.nasa.gov
-api.nasa.gov
-open.nasa.gov
-nasa.gov/data
+- code.nasa.gov
+- data.nasa.gov
+- api.nasa.gov
+- open.nasa.gov
+- nasa.gov/data
 
 ### Why is NASA's Open Source Code in multiple locations?
 The reason for NASA open source code existing in different places boils down to different requirements, both requirements of those writing the code and requirements from above.
