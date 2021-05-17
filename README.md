@@ -1,11 +1,9 @@
 # NASA's Public GitHub Organization
 
 ## Purpose
-The [github.com/nasa](https://github.com/nasa/) organizational account is intended to publicly host NASA code that has been SRA-approved for open source. 
+The [github.com/nasa](https://github.com/nasa/) organizational account is intended to publicly host NASA code that has been SRA-approved (Software Release Authority) for open source. 
 
 # IF YOU ARE LOOKING FOR INFORMATION & INSTRUCTIONS, PLEASE CHECK OUT https://nasa.github.io/
-
-<!-- <b><i>If you are a NASA Staff member, please check out these instructions for adding a code repository or getting made a collaborator: https://nasa.github.io/</i></b> -->
 
 ## Owners
 We currently have two active owners in the org:
