@@ -101,7 +101,7 @@ Please make sure any repos added to github.com/nasa are also tracked in code.nas
 
 Code.nasa.gov uses both human and A.I. generated tags to help users find NASA open source that is useful for their goals.
 
-![image of sreenshot of code.nasa.gov showing details for Open MCT project](http://nasa.github.io/assets/NASA_logo.svg)
+![image of sreenshot of code.nasa.gov showing details for Open MCT project](http://nasa.github.io/assets/code_demo.png)
 
 
 Screenshot of NASA's project OPEN MCT
