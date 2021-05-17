@@ -83,7 +83,6 @@ In addition to github.com/nasa, NASA OCIO's Transformation and Data Division Ope
 - code.nasa.gov
 - data.nasa.gov
 - api.nasa.gov
-- open.nasa.gov
 - nasa.gov/data
 
 ### Open Source Related Pages on NASA.GOV
