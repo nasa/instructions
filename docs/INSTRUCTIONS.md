@@ -23,11 +23,13 @@ To ensure mandatory policies are followed, NASA org members are not given the fu
 #### Org Owners
 Only org owners have the ability to create new repositories and bring new users in as members of the NASA github org.
 
-We currently have two active owners in the org:
+We currently have one active owner in the org:
 
-Taylor Yates (evan.t.yates@nasa.gov)
-Justin Gosses (justin.c.gosses@nasa.gov)
-Repos
+Justin Gosses (github username = JustinGOSSES)
+
+A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
+
+#### Repos
 We do not give out admin rights on any NASA Github repos for reasons stated above. If you want a new repo created or want to edit settings on an existing repo that require admin access, please contact one of our org owners. Without admin rights on a repository, you'll still be able to make any code changes yourself as long as you're a collaborator on that repository or a member of a team whose participants are collaborators by default.
 
 If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request or email one of the Org Owners with the follwing information:
@@ -58,15 +60,15 @@ Please reach out to us if you have any questions.
 #### Common Request & Process Combinations
 Need: If you need to be added to the NASA org on github.com/
 
-Process: Create a personal github account and then request to be added as a Github Collaborator via a new or modified NAMs request. Please include your github id in the request.
+Process: Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 
 Need: If you need to add a new open-sourced repository to github.com/nasa that has already been approved via the software release authority process.
 
-Process: Make or modify a request to start a new repository in github.com/nasa via the NAMs request. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into.
+Process: Make or modify a request to start a new repository in github.com/nasa via the <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 
 Need: If you need to create a new team for managing who has access to make changes on a particular repository or group of repositories.
 
-Process: Modify your NAMs request to request the team creation or email the two owners above. Give team name and which repositories team members should be given access to.
+Process: Modify your <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a> to request the team creation or email the two owners above. Give team name and which repositories team members should be given access to. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 
 Need: If you need to add a new member to an already established team.
 
