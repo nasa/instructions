@@ -1,16 +1,36 @@
 {
-	"title": "nasa.github.io", 
-	"visibility": "public", 
-	"type": "GIT", 
-	"description": "Github NASA organization front-end.", 
-	"url": "https://github.com/nasa/nasa.github.io",
-	"repo": "nasa/nasa.github.io",
-	"missions":["OCIO", "HQ"], 
-	"categories": ["NASA", "Open Source", "CFS", "gh-pages"], 
-	"languages": ["HTML", "CSS", "Javascript"],
-	"operating_systems": ["Linux", "Windows", "Unix", "Mac"],  
-	"poc": "Jason Duley", 
-	"poc_mbox": " jason.duley@nasa.gov", 
-	"license": "NASA Open Source Agreement Version 1.3", 
-	"software_types": ["website", "catalog"]
+    "title": "nasa.github.io",
+    "visibility": "public",
+    "type": "GIT",
+    "description": "Github NASA organization front-end.",
+    "url": "https://github.com/nasa/nasa.github.io",
+    "repo": "nasa/nasa.github.io",
+    "missions": [
+        "OCIO",
+        "HQ"
+    ],
+    "categories": [
+        "NASA",
+        "Open Source",
+        "CFS",
+        "gh-pages"
+    ],
+    "languages": [
+        "HTML",
+        "CSS",
+        "Javascript"
+    ],
+    "operating_systems": [
+        "Linux",
+        "Windows",
+        "Unix",
+        "Mac"
+    ],
+    "poc": "Jason Duley",
+    "poc_mbox": " jason.duley@nasa.gov",
+    "license": "NASA Open Source Agreement Version 1.3",
+    "software_types": [
+        "website",
+        "catalog"
+    ]
 }
