@@ -80,9 +80,9 @@ There was some concern over a website with NASA related information that is not 
 ## Related Sites
 ### Organizationally Related Sites
 In addition to github.com/nasa, NASA OCIO's Transformation and Data Division Open-Innovation staff also run:
-- <a href="https://code.nasa.gov">code.nasa.gov</a>
-- <a href="https://data.nasa.gov">data.nasa.gov</a>
-- <a href="https://api.nasa.gov">api.nasa.gov</a>
+- <a href="https://code.nasa.gov">code.nasa.gov</a> [Catalog containing metadata describing open source NASA code that is on github.com/nasa as well as other locations.]
+- <a href="https://data.nasa.gov">data.nasa.gov</a> [Catalog that holds metadata that describes open datasets from many different NASA data archives.]
+- <a href="https://api.nasa.gov">api.nasa.gov</a> [Listing of beginner friendly NASA APIs.]
 
 ### Open Source Related Pages on NASA.GOV
 The page https://www.nasa.gov/open/open-source-development.html has some high level history and information regarding open source at NASA.
