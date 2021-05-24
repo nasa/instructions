@@ -40,7 +40,7 @@ If you need for a new repository (and it has gotten SRA approval) please either 
 - Usernames of people for that team if it doesn't already exist. Usernames must be from the list of existing NASA org members.
 - If you are joining for the first time and need a repository created, you can also include the same information in your NAMs request for access inside the more information box.
 
-You can learn more about the software release authority process on the Guide page of code.nasa.gov.
+You can learn more about the software release authority process on the <a href="https://code.nasa.gov/#/guide">guide page</a> of code.nasa.gov.
 
 #### Teams
 Teams are effective ways of managing repository access privileges for an entire group of users. Only org owners can create and remove teams, but we now allow users to be team maintainers. Team maintainers have permissions to add and remove users to their teams from the population of people who are already NASA org members.
