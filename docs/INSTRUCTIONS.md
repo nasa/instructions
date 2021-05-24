@@ -57,6 +57,9 @@ Only on a rare case-by-case basis we will allow non-NASA users to be added to th
 
 Please reach out to us if you have any questions.
 
+### Use of Large File Storage and GitHub Actions
+<a href="https://git-lfs.github.com/">Large File Storage</a> (LFS) and <a href="https://github.com/features/actions">GitHub Actions</a> are two services for GitHub repositories that can be enabled and may result in extra costs that the NASA org on github.com has to pay. Currently, the policy is to enable these features on a per repository basis as requested for limited use. This this level of use over a small number of repositories hasn't resulted in charged above our very limited budget. If you would like to use either of these services extensively, please each out to the contact email. 
+
 ### Common Request & Process Combinations
 Need: If you need to be added to the NASA org on github.com/
 
@@ -72,9 +75,9 @@ Process: Modify your <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs req
 
 Need: If you need to add a new member to an already established team.
 
-Process: Send an email to the Team owner, modify your NAMs request, or email the Github Owners in that order of preference.
+Process: Send an email to the Team owner, modify your NAMs request, or email the Github Owners in that order of preference. 
 
-### Why is this now just a markdown file instead of a website
+## Why is this now just a markdown file instead of a website
 There was some concern over a website with NASA related information that is not purely documentation for an open sourced code project on github.com/nasa with a domain ending that is not nasa.gov. Hence, the instructions for use of github.com/nasa on https://nasa.github.io/ was shifted to this markdown file that is not a website but rather a file. Apologies to those who submitted pull requests to improve the old site.
 
 ## Related Sites
