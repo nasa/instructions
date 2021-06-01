@@ -77,6 +77,10 @@ Need: If you need to add a new member to an already established team.
 
 Process: Send an email to the Team owner, modify your NAMs request, or email the Github Owners in that order of preference. 
 
+Need: I accidentally committed something that needs to be deleted from all git history. How do I do that?
+
+Process: Check out the instructions here: https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository#using-the-bfg 
+
 ## Why is this now just a markdown file instead of a website
 There was some concern over a website with NASA related information that is not purely documentation for an open sourced code project on github.com/nasa with a domain ending that is not nasa.gov. Hence, the instructions for use of github.com/nasa on https://nasa.github.io/ was shifted to this markdown file that is not a website but rather a file. Apologies to those who submitted pull requests to improve the old site.
 
