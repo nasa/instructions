@@ -57,8 +57,8 @@ venusweather-api-go
 There isn't a very strict standard in terms of syntax of repository names but in general making them easier to read is better. 
 
 This leads to the following practices:
-- <b>Dashes > Underscores </b>
-- <b>Dashes > CamelCase </b>
+- <b>dashes > underscores </b>
+- <b>dashes-dashes > CamelCase </b>
 - <b>lowercase > UPPERCASE</b>
 
 #### Acronyms are bad names, usually
