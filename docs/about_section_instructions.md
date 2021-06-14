@@ -62,7 +62,7 @@ This leads to the following practices:
 - <b>lowercase > UPPERCASE</b>
 
 #### Acronyms are bad names, usually
-There is a tendancy in government to name everything that needs a name with an acronym. Acronyms save time for those that known their meaning, but they convey somewhere between very little and zero information to the people who don't know their meaning. As such, if there the choice is between three words separated by dashes and an acronym, the three words separated by dashes are nearly always going to be a better choice of name. 
+There is a tendancy in government to name everything that needs a name with an acronym. Acronyms save time for those that know their meaning, but they convey somewhere between very little and zero information to the people who don't know their meaning. As such, if there the choice is between three words separated by dashes and an acronym, the three words separated by dashes are nearly always going to be a better choice of name. 
 
 You can always explain in the README that internally, the project is referred to as acronym ___. 
 
