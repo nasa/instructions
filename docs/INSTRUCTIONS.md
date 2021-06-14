@@ -35,7 +35,7 @@ We do not give out admin rights on any NASA Github repos for reasons stated abov
 If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request or email one of the Org Owners with the follwing information:
 
 - <b>Name of the repository</b>
-- <b>About Tab Information</b>: These will appear on the repo's home page in the "about" section. They are extractable as metadata and assist  in discoverability.
+- About Tab Information: These will appear on the repo's home page in the "about" section. They are extractable as metadata and assist  in discoverability.
   - <b>Topic tags</b> that describe the repository. 
   - <b>A 350 character or less description</b> of the repository. 
   - <b>Website Link</b> : If you intend to start up a github pages site for documentation or have a link that goes elsewhere with that information, supply it for the about section as well.
