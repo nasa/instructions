@@ -34,15 +34,17 @@ We do not give out admin rights on any NASA Github repos for reasons stated abov
 
 If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request or email one of the Org Owners with the follwing information:
 
-- Name of the repository
+- <b>Name of the repository</b>
 - <b>About Tab Information</b>: These will appear on the repo's home page in the "about" section. They are extractable as metadata and assist  in discoverability.
   - Topic tags that describe the repository. 
   - A 350 character or less description of the repository. 
   - If you intend to start up a github pages site for documentation or have a link that goes elsewhere with that information, supply it for the about section as well.
-- SRA number
-- Team name for managing the repository
-- Usernames of people for that team if it doesn't already exist. Usernames must be from the list of existing NASA org members.
-- If you are joining for the first time and need a repository created, you can also include the same information in your NAMs request for access inside the more information box.
+- <b>SRA number</b>
+- <b>Team name</b> for managing the repository
+- <b>Usernames of people for that team</b> if it doesn't already exist. Usernames must be from the list of existing NASA org members.
+ 
+ 
+If you are joining for the first time and need a repository created, you can also include the same information in your NAMs request for access inside the more information box.
 
 You can learn more about the software release authority process on the <a href="https://code.nasa.gov/#/guide">guide page</a> of code.nasa.gov.
 
