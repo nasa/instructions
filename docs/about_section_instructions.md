@@ -4,9 +4,9 @@ There are instructions for the public facing GitHub! Specifically the NASA org a
 
 These instructions are not for any other internal GitHub or GitLab instance. 
 
-### Instructions for Open Sourcing Code are on <a href="https://code.nasa.gov/#/guide">https://code.nasa.gov/#/guide</a>
+More general instructions for Open Sourcing Code are on <a href="https://code.nasa.gov/#/guide">https://code.nasa.gov/#/guide</a>
 
-### General Instructions for Github.com/nasa are on <a href="https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md">https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md</a>
+More general Instructions for Github.com/nasa are on <a href="https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md">https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md</a>
 **/
 
 ## Information that Can Only Populated By Admins 
