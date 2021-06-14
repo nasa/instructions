@@ -1,8 +1,8 @@
 ### Where These Instructions Apply
 
-There are instructions for the public facing GitHub! Specifically the NASA org at https://github.com/nasa
+There are instructions for the public-facing GitHub! Specifically the NASA org at https://github.com/nasa
 
-These instructions are not for any other internal GitHub or GitLab instance. 
+These instructions are not for any internal GitHub or GitLab instance. 
 
 More general instructions for Open Sourcing Code are on <a href="https://code.nasa.gov/#/guide">https://code.nasa.gov/#/guide</a>
 
