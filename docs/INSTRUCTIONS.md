@@ -43,6 +43,7 @@ If you need for a new repository (and it has gotten SRA approval) please either 
 - <b>Team name</b> for managing the repository
 - <b>Usernames of people for that team</b> if it doesn't already exist. Usernames must be from the list of existing NASA org members.
  
+<a href="https://github.com/nasa/nasa.github.io/blob/master/docs/about_section_instructions.md">PLEASE READ THESE INSTRUCTIONS FOR FURTHER DETAILS ON BEST PRACTICES FOR REPOSITORY NAMES AND ABOUT SECTION INFORMATION</a>
  
 If you are joining for the first time and need a repository created, you can also include the same information in your NAMs request for access inside the more information box.
 
