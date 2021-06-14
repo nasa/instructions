@@ -70,8 +70,12 @@ You can always explain in the README that internally, the project is referred to
 ## Topic tags improve code discosverability
 Topic tags help the public discover your code in a variety of ways. 
 - The public might search for the topic tag across all of GitHub. 
-- The public might be on a related code repository on github.com/nasa that uses the same tag. They an click on the tag and see any code repositories under the NASA org wiht the same tag. 
+- The public might be on a related code repository on github.com/nasa that uses the same tag. They an click on the tag and see any code repositories under the NASA org with the same tag. 
 - Tags also helps NASA individuals understand what types of NASA code has been open-sourced and is available for reuse.
+
+Good examples of topic tags are domains, fields of study, frameworks used, public & internal project names, NASA org names, and especially single words that describe possible software use cases in general terms.
+
+For examples of good tags, you can look at the tags on code.nasa.gov https://code.nasa.gov/ . Below each code project description is a list of both human populated tags and machine-learning generated tags. When you submit a new project to be cataloged on code.nasa.gov, <a href="https://code.nasa.gov/#/guide">which is mandatory for all open-source release</a>, it triggers a pipeline that generates the machine-learning generated tags.
 
 ## Website Link
 If you want to use GitHub pages to display documentation, please request that the link to the github pages be set up and supplied in the "website" field. Alternatively, if there is no documentation website but the code was created for a NASA mission or project that does have a website, please consider adding it in that field. 
