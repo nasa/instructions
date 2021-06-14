@@ -36,9 +36,9 @@ If you need for a new repository (and it has gotten SRA approval) please either 
 
 - <b>Name of the repository</b>
 - <b>About Tab Information</b>: These will appear on the repo's home page in the "about" section. They are extractable as metadata and assist  in discoverability.
-  - Topic tags that describe the repository. 
-  - A 350 character or less description of the repository. 
-  - If you intend to start up a github pages site for documentation or have a link that goes elsewhere with that information, supply it for the about section as well.
+  - <b>Topic tags</b> that describe the repository. 
+  - <b>A 350 character or less description</b> of the repository. 
+  - <b>Website Link</b> : If you intend to start up a github pages site for documentation or have a link that goes elsewhere with that information, supply it for the about section as well.
 - <b>SRA number</b>
 - <b>Team name</b> for managing the repository
 - <b>Usernames of people for that team</b> if it doesn't already exist. Usernames must be from the list of existing NASA org members.
