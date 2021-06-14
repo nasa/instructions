@@ -2,7 +2,7 @@
 
 There are instructions for the public facing GitHub! Specifically the NASA org at https://github.com/nasa
 
-These instructions are not for developer.nasa.gov, which is an internal enterprise GitHub instance! 
+These instructions are not for any other internal GitHub or GitLab instance. 
 
 ### Instructions for Open Sourcing Code are on <a href="https://code.nasa.gov/#/guide">https://code.nasa.gov/#/guide</a>
 
