@@ -91,9 +91,10 @@ Process: Check out the instructions here: https://docs.github.com/en/github/auth
 <hr>
 
 Need: <i>Someone submitted a spam pull request to a NASA repository. That user needs blocked from all NASA repositories. </i>
-
 Process: Send an email to an NASA org admin using the standard contact email listed on this page. Supply a link to the issue or pull request with the spam and the username of who is to be blocked. 
+
 <hr>
+
 ## Why is this now just a markdown file instead of a website
 There was some concern over a website with NASA related information that is not purely documentation for an open sourced code project on github.com/nasa with a domain ending that is not nasa.gov. Hence, the instructions for use of github.com/nasa on https://nasa.github.io/ was shifted to this markdown file that is not a website but rather a file. Apologies to those who submitted pull requests to improve the old site.
 
