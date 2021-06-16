@@ -68,6 +68,7 @@ Please reach out to us if you have any questions.
 <a href="https://git-lfs.github.com/">Large File Storage</a> (LFS) and <a href="https://github.com/features/actions">GitHub Actions</a> are two services for GitHub repositories that can be enabled and may result in extra costs that the NASA org on github.com has to pay. Currently, the policy is to enable these features on a per repository basis as requested for limited use. This this level of use over a small number of repositories hasn't resulted in charges above our very limited budget. If you would like to use either of these services extensively, please each out to the contact email. 
 
 ### Common Request & Process Combinations
+<hr>
 Need: <i>If you need to be added to the NASA org on github.com/</i>
 
 Process: Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
