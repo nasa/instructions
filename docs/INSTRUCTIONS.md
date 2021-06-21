@@ -67,6 +67,11 @@ Please reach out to us if you have any questions.
 ### Use of Large File Storage and GitHub Actions
 <a href="https://git-lfs.github.com/">Large File Storage</a> (LFS) and <a href="https://github.com/features/actions">GitHub Actions</a> are two services for GitHub repositories that can be enabled and may result in extra costs that the NASA org on github.com has to pay. Currently, the policy is to enable these features on a per repository basis as requested for limited use. This this level of use over a small number of repositories hasn't resulted in charges above our very limited budget. If you would like to use either of these services extensively, please each out to the contact email. 
 
+### Enabling "Discussions" and Other Beta Features
+There are some repository configuration, especially for beta features of GitHub, that are not enabled by default. These often need to be enabled in the settings menu, which is not always available for users who only have write access. If there is a feature you see elsewhere in GitHub.com that you don't see enabled on your repository, please reach out to the administrator email. We will see if that is a feature we can enable for you.
+
+One example, would be "discussions", which is a place to have discussions that don't fall squarely within "issues" or "pull requests". Reach out to the contact email to get "discussions" enabled on a NASA repository that you can write access to. Include your name, email, GitHub username, and repository name.
+
 ### Common Request & Process Combinations
 <hr>
 Need: <i>If you need to be added to the NASA org on github.com/</i>
