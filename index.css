@@ -2,16 +2,28 @@ body {
   font-family: "DM Sans", "Arial", sans-serif;
   margin: max(10vw, 20px);
 }
+
+.content_image{
+  width: 50%;
+}
+
 @media(max-width: 1100px){ 
   .container{ 
     padding-top: 1em;
   } 
+
+  .content_image{
+    width: 70%;
+  }
 } 
 
 @media(max-width: 515px){ 
   .container{ 
     padding-top: 6em;
   } 
+  .content_image{
+    width: 70%;
+  }
 }
 
 html {
@@ -28,9 +40,7 @@ header {
   position: fixed;
   top: 0;
   left: calc(max(10vw, 20px) - 4px);
-  background: #ffffffa0;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(2px);
+  background: #ffffffff;
   box-sizing: border-box;
 }
 
