@@ -25,9 +25,12 @@ Only org owners have the ability to create new repositories and bring new users 
 
 We currently have one active owner in the org:
 
-Justin Gosses (github username = [JustinGOSSES](https://github.com/JustinGOSSES)
+Justin Gosses : github username = JustinGOSSES
+Miles Crabbe : github username = MilesCrabbe
 
 A general purpose contact email is [nasa-data@lists.arc.nasa.gov](mailto:nasa-data@lists.arc.nasa.gov).arc.nasa.gov, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
+
+A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
 
 #### Repos
 We do not give out admin rights on any NASA Github repos for reasons stated above. If you want a new repo created or want to edit settings on an existing repo that require admin access, please contact one of our org owners. Without admin rights on a repository, you'll still be able to make any code changes yourself as long as you're a collaborator on that repository or a member of a team whose participants are collaborators by default.
