@@ -3,19 +3,19 @@
 # INSTRUCTIONS FILE FOR NASA's PUBLIC GITHUB ORGANIZATION
 
 ## Purpose
-This GitHub organization is intended to publicly host NASA code that has been SRA-approved for open source. You can review the SRA (software release authority) process for getting open-source approval on https://code.nasa.gov/#/guide.
+This GitHub organization is intended to publicly host NASA code that has been SRA-approved for open source. You can review the SRA (software release authority) process for getting open-source approval on [https://code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
 ## Instructions: Who Can Be a Member
-Only NASA staff can be a member of the NASA org on github.com and release code in github.com/nasa org.
+Only NASA staff can be a member of the NASA org on github.com and release code in [github.com/nasa](https://github.com/nasa) org.
 
-If you are a NASA civil servant or contractor and would like to be added to the Public NASA GitHub Org, you will need to submit the AGCY NASA Github Collaborator Form NAMS request (https://nams.nasa.gov). This requires you to be behind the NASA firewall. If you were a member several years ago and recently found you are no longer a member, please see this <a href="https://github.com/nasa/nasa.github.io/issues/2">note</a>.
+If you are a NASA civil servant or contractor and would like to be added to the Public NASA GitHub Org, you will need to submit the AGCY NASA Github Collaborator Form [NAMS request ](https://nams.nasa.gov) https://nams.nasa.gov. This requires you to be behind the NASA firewall. If you were a member several years ago and recently found you are no longer a member, please see this [note](https://github.com/nasa/nasa.github.io/issues/2).
 
-Only members have rights to directly edit code in a github.com/nasa repository. Everyone else will need to submit a pull request. We highly encourage pull requests from the public!!! However, please note that not all repositories are actively maintained.
+Only members have rights to directly edit code in a [github.com/nasa](https://github.com/nasa) repository. Everyone else will need to submit a pull request. We highly encourage pull requests from the public!!! However, please note that not all repositories are actively maintained.
 
 Members of the public can not attain and do not need collaborator status. You don't need any special status to submit pull requests or add issues.
 
 ### How
-For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on code.nasa.gov/#/guide.
+For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on [code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
 ### Instructions: Once You Are a Member
 To ensure mandatory policies are followed, NASA org members are not given the full admin rights you might be used to on your personal github.com accounts. However, by using teams, team owners, collaborators, and outside collaborators roles we can make the experience pretty quick and easy.
@@ -25,9 +25,10 @@ Only org owners have the ability to create new repositories and bring new users 
 
 We currently have one active owner in the org:
 
-Justin Gosses (github username = JustinGOSSES)
+Justin Gosses : github username = JustinGOSSES
+Miles Crabbe : github username = MilesCrabbe
 
-Miles Crabbe (github username = MilesCrabbe)
+A general purpose contact email is [nasa-data@lists.arc.nasa.gov](mailto:nasa-data@lists.arc.nasa.gov).arc.nasa.gov, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
 
 A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
 
@@ -36,20 +37,20 @@ We do not give out admin rights on any NASA Github repos for reasons stated abov
 
 If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request or email one of the Org Owners with the follwing information:
 
-- <b>Name of the repository</b>
+- **Name of the repository**
 - About Tab Information: These will appear on the repo's home page in the "about" section. They are extractable as metadata and assist  in discoverability.
-  - <b>Topic tags</b> that describe the repository. 
-  - <b>A 350 character or less description</b> of the repository. 
-  - <b>Website Link</b> : If you intend to start up a github pages site for documentation or have a link that goes elsewhere with that information, supply it for the about section as well.
-- <b>SRA number</b>
-- <b>Team name</b> for managing the repository
-- <b>Usernames of people for that team</b> if it doesn't already exist. Usernames must be from the list of existing NASA org members.
+  - **Topic tags** that describe the repository. 
+  - **A 350 character or less description** of the repository. 
+  - **Website Link** : If you intend to start up a github pages site for documentation or have a link that goes elsewhere with that information, supply it for the about section as well.
+- **SRA number**
+- **Team name** for managing the repository
+- **Usernames of people for that team** if it doesn't already exist. Usernames must be from the list of existing NASA org members.
  
-<a href="https://github.com/nasa/nasa.github.io/blob/master/docs/about_section_instructions.md">PLEASE READ THESE INSTRUCTIONS FOR FURTHER DETAILS ON BEST PRACTICES FOR REPOSITORY NAMES AND ABOUT SECTION INFORMATION</a>
+[PLEASE READ THESE INSTRUCTIONS FOR FURTHER DETAILS ON BEST PRACTICES FOR REPOSITORY NAMES AND ABOUT SECTION INFORMATION](https://github.com/nasa/nasa.github.io/blob/master/docs/about_section_instructions.md)
  
 If you are joining for the first time and need a repository created, you can also include the same information in your NAMs request for access inside the more information box.
 
-You can learn more about the software release authority process on the <a href="https://code.nasa.gov/#/guide">guide page</a> of code.nasa.gov.
+You can learn more about the software release authority process on the [guide page](https://code.nasa.gov/#/guide) of code.nasa.gov.
 
 #### Teams
 Teams are effective ways of managing repository access privileges for an entire group of users. Only org owners can create and remove teams, but we now allow users to be team maintainers. Team maintainers have permissions to add and remove users to their teams from the population of people who are already NASA org members.
@@ -76,11 +77,11 @@ One example, would be "discussions", which is a place to have discussions that d
 
 ### Common Request & Process Combinations
 <hr>
-Need: <i>If you need to be added to the NASA org on github.com/</i>
+Need: *If you need to be added to the NASA org on github.com/*
 
 Process: Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
-Need: <i>If you need to add a new open-sourced repository to github.com/nasa that has already been approved via the software release authority process.</i>
+Need: *If you need to add a new open-sourced repository to github.com/nasa that has already been approved via the software release authority process.*
 
 Process: Make or modify a request to start a new repository in github.com/nasa via the <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
@@ -88,16 +89,16 @@ Need: <i>If you need to create a new team for managing who has access to make ch
 
 Process: Modify your <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a> to request the team creation or email the two owners above. Give team name and which repositories team members should be given access to. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
-Need: <i>If you need to add a new member to an already established team.</i>
+Need: *If you need to add a new member to an already established team.*
 
 Process: Send an email to the Team owner, modify your NAMs request, or email the Github Owners in that order of preference. 
 <hr>
-Need: <i>I accidentally committed something that needs to be deleted from all git history. How do I do that?</i>
+Need: *I accidentally committed something that needs to be deleted from all git history. How do I do that?*
 
 Process: Check out the instructions here: https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository#using-the-bfg 
 <hr>
 
-Need: <i>Someone submitted a spam pull request to a NASA repository. That user needs blocked from all NASA repositories. </i>
+Need: *Someone submitted a spam pull request to a NASA repository. That user needs blocked from all NASA repositories. *
 Process: Send an email to an NASA org admin using the standard contact email listed on this page. Supply a link to the issue or pull request with the spam and the username of who is to be blocked. 
 
 <hr>
