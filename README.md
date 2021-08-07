@@ -9,7 +9,7 @@ The [github.com/nasa](https://github.com/nasa/) organizational account is intend
 Please note that active development has shifted away from https://github.com/nasa/nasa.github.io/blob/master/index.html and to https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md
 
 ## Owners
-We currently have two active owners in the org:
+We currently have one active owner in the org:
 + Justin Gosses
 
 Please reach out to us at nasa-data@lists.arc.nasa.gov if you have any questions not covered in https://nasa.github.io/ or https://code.nasa.gov/#/guide
