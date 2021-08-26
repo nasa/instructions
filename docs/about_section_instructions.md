@@ -87,8 +87,8 @@ OMB has issued guidance <a href="https://code.gov/assets/data/ai_inventory-guida
 Agencies shall include the keyword of 
 “usgartificialintelligence” 
 for all datasets determined to support AI R&D. Datasets that specifically serve as training data for ML applications should additionally include a keyword of 
-“usg-aitraining-data,”
-“usg-ai-testingdata,”
+“usg-ai-training-data,”
+“usg-ai-testing-data,”
 ```
 
 
