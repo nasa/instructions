@@ -79,6 +79,19 @@ For examples of good tags, you can look at the tags on code.nasa.gov https://cod
 
 If you are behind the NASA firewall, you can use <a href="https://compute.analytics.nasa.gov/">this website</a> to submit text that describes your code project and get back machine-learning generated topic tags. 
 
+### Required Tags For Any Machine Learning Related Code
+A.I. Related Datasets Need New OMB Mandated Tags
+
+OMB has issued guidance <a href="https://code.gov/assets/data/ai_inventory-guidance.pdf">"Guidance for Improving Discoverability of Agency Datasets for AI R&D"</a>. If your dataset in any way relates to A.I., please read the linked instructions and add the appropriate tags!
+```
+Agencies shall include the keyword of 
+“usgartificialintelligence” 
+for all datasets determined to support AI R&D. Datasets that specifically serve as training data for ML applications should additionally include a keyword of 
+“usg-aitraining-data,”
+“usg-ai-testingdata,”
+```
+
+
 ## Website Link
 If you want to use GitHub pages to display documentation, please request that the link to the github pages be set up and supplied in the "website" field. Alternatively, if there is no documentation website but the code was created for a NASA mission or project that does have a website, please consider adding it in that field. 
 
