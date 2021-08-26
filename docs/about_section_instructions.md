@@ -85,7 +85,7 @@ A.I. Related Datasets Need New OMB Mandated Tags
 OMB has issued guidance <a href="https://code.gov/assets/data/ai_inventory-guidance.pdf">"Guidance for Improving Discoverability of Agency Datasets for AI R&D"</a>. If your dataset in any way relates to A.I., please read the linked instructions and add the appropriate tags!
 ```
 Agencies shall include the keyword of 
-“usgartificialintelligence” 
+“usg-artificial-intelligence” 
 for all datasets determined to support AI R&D. Datasets that specifically serve as training data for ML applications should additionally include a keyword of 
 “usg-ai-training-data,”
 “usg-ai-testing-data,”
