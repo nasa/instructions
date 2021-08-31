@@ -23,9 +23,10 @@ To ensure mandatory policies are followed, NASA org members are not given the fu
 #### Org Owners
 Only org owners have the ability to create new repositories and bring new users in as members of the NASA github org.
 
-We currently have one active owner in the org:
+We currently have two active owner in the org:
 
 Justin Gosses : github username = JustinGOSSES
+
 Miles Crabbe : github username = MilesCrabbe
 
 A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
