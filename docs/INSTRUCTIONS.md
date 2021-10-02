@@ -1,4 +1,4 @@
-![image of NASA logo](http://nasa.github.io/assets/NASA_logo.svg)
+![image of NASA logo](https://raw.githubusercontent.com/nasa/instructions/master/assets/NASA_logo.svg)
 
 # INSTRUCTIONS FILE FOR NASA's PUBLIC GITHUB ORGANIZATION
 
