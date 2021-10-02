@@ -12,7 +12,6 @@ If you are a NASA civil servant or contractor and would like to be added to the 
 
 Only members have rights to directly edit code in a [github.com/nasa](https://github.com/nasa) repository. Everyone else will need to submit a pull request. We highly encourage pull requests from the public!!! However, please note that not all repositories are actively maintained. If you look at NASA code repositories on the <a href="https://github.com/nasa">https://github.com/nasa</a> front page, there is a little sparkline (small inline chart) showing activity over time. Projects with lots of activity are more likely to quickly accept a pull request. Members of the public can not attain and do not need collaborator status. <i>You don't need any special status to submit pull requests or add issues.</i>
 
-### How
 For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on [code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
 ### Instructions: Once You Are a Member
