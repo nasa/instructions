@@ -91,7 +91,7 @@ for all datasets determined to support AI R&D. Datasets that specifically serve 
 “usg-ai-training-data,”
 “usg-ai-testing-data,”
 ```
-
+You can find all the NASA repositories that are related to A.I. and use this tag <a href="https://github.com/orgs/nasa/repositories?language=&q=usg-artificial-intelligence&sort=&type=">here</a>. This topic tag is relatively new, so hopefully this list will expand in size over time.
 
 ## Website Link
 If you want to use GitHub pages to display documentation, please request that the link to the github pages be set up and supplied in the "website" field. Alternatively, if there is no documentation website but the code was created for a NASA mission or project that does have a website, please consider adding it in that field. 
