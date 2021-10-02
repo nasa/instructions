@@ -10,7 +10,7 @@ More general instructions for Open Sourcing Code are on <a href="https://code.na
 More general Instructions for Github.com/nasa are on <a href="https://github.com/nasa/instructions/blob/master/docs/INSTRUCTIONS.md">https://github.com/nasa/instructions/blob/master/docs/INSTRUCTIONS.md</a>
 **/
 
-### Context: Information that Can Only Populated By Admins 
+### Certain Information Can Only Populated By Admins on GitHub.com/nasa
 
 To comply with requests from security and legal that all repositories accessible to the public on github.com/nasa have an SRA authorization number, repositories can only be created by administrators of github.com/nasa. This means only administrators can "own" repositories using GitHub definitions. 
 
