@@ -31,6 +31,7 @@ A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov"
 #### Repos
 We do not give out admin rights on any NASA Github repos for reasons stated above. If you want a new repo created or want to edit settings on an existing repo that require admin access, please contact one of our org owners. Without admin rights on a repository, you'll still be able to make any code changes yourself as long as you're a collaborator on that repository or a member of a team whose participants are collaborators by default.
 
+##### Required Information for New Repositories
 If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request or email one of the Org Owners with the follwing information:
 
 - **Name of the repository**
@@ -42,7 +43,7 @@ If you need for a new repository (and it has gotten SRA approval) please either 
 - **Team name** for managing the repository
 - **Usernames of people for that team** if it doesn't already exist. Usernames must be from the list of existing NASA org members.
  
-[PLEASE READ THESE INSTRUCTIONS FOR FURTHER DETAILS ON BEST PRACTICES FOR REPOSITORY NAMES AND ABOUT SECTION INFORMATION](https://github.com/nasa/nasa.github.io/blob/master/docs/about_section_instructions.md)
+[PLEASE READ THESE INSTRUCTIONS FOR A LONGER DESCRIPTION OF BEST PRACTICES FOR REPOSITORY NAMES AND ABOUT SECTION INFORMATION](https://github.com/nasa/nasa.github.io/blob/master/docs/about_section_instructions.md)
  
 If you are joining for the first time and need a repository created, you can also include the same information in your NAMs request for access inside the more information box.
 
