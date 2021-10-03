@@ -4,7 +4,7 @@
     "type": "GIT",
     "description": "Github NASA organization front-end.",
     "url": "https://github.com/nasa/instructions",
-    "repo": "nasa/nasa.github.io",
+    "repo": "nasa/instructions",
     "missions": [
         "OCIO",
         "HQ"
