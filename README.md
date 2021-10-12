@@ -5,7 +5,7 @@ The [github.com/nasa](https://github.com/nasa/) organizational account is intend
 
 ## Instructions
 
-**If you are looking for information & instructions on [github.com/nasa](https://github.com/nasa), Please check out [instructions.md](/docs/INSTRUCTIONS.md)
+**If you are looking for information & instructions on [github.com/nasa](https://github.com/nasa), Please check out [instructions.md](/docs/INSTRUCTIONS.md)**
 
 Please reach out to us at nasa-data@lists.arc.nasa.gov if you have any questions not covered in the instructions above.
 
