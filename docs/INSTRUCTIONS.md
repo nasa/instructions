@@ -122,7 +122,9 @@ The reason for NASA open source code existing in different places boils down to 
 Other NASA orgs on github.com or gitlab.com or bitbucket
 Although NASA staff are highly encouraged to release open source software on github.com/nasa as that is where most people look so it ensures higher potential reuse, they are not absolutely required to use that org account. A common reason code may exist under other orgs is that the software is jointly maintained by non-NASA persons or the code was developed by non-NASA persons through a NASA grant.
 
-To encourage disoverability, please use the #NASA topic tag on any GitHub or GitLab repositories not under github.com/nasa.
+To encourage disoverability, please use the #NASA topic tag on any GitHub or GitLab repositories not under github.com/nasa. Doing so helps create views of NASA open source code beyond what is under github.com/nasa. 
+
+For example, <a href="https://justingosses.github.io/nasa-repos-visual-explorer/explore/">this webpage creates visualizations of trends and connections between NASA repositories</a> across many org accounts and not just github.com/nasa. 
 
 ### Discovering useful NASA Open-Source Code via metadata catalogs
 There are several hundred NASA open-source code repositories and as previously noted, not everything is on github.com/nasa. To improve your chance of finding something useful to you, we suggest you use code.nasa.gov and software.nasa.gov. These sites host metadata descriptions for nearly all of the officially open-sourced code.
