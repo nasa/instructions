@@ -4,8 +4,8 @@
 
 ## Table of Contents
 - [Purpose](#purpose)
-- [Instructions: Who Can Be a Member](#instructions:-who-can-be-a-member)
-- [Instructions: Once You Are a Member](#instructions:-once-you-are-a-member)
+- [Instructions for Who Can Be a Member](#instructions-for-who-can-be-a-member)
+- [Instructions for Once You Are a Member](#instructions-for-once-you-are-a-member)
 - [Use of Large File Storage and GitHub Actions](#use-of-large-file-storage-and-github-actions)
 - [](#)
 - [](#)
@@ -16,7 +16,7 @@
 ## Purpose
 This GitHub organization is intended to publicly host NASA code that has been SRA-approved for open source. You can review the SRA (software release authority) process for getting open-source approval on [https://code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
-## Instructions: Who Can Be a Member
+## Instructions for Who Can Be a Member
 Only NASA staff can be a member of the NASA org on github.com and release code in [github.com/nasa](https://github.com/nasa) org.
 
 If you are a NASA civil servant or contractor and would like to be added to the Public NASA GitHub Org, you will need to submit the AGCY NASA Github Collaborator Form [NAMS request ](https://nams.nasa.gov) https://nams.nasa.gov. This requires you to be behind the NASA firewall. If you were a member several years ago and recently found you are no longer a member, please see this [note](https://github.com/nasa/nasa.github.io/issues/2).
@@ -25,7 +25,7 @@ Only members have rights to directly edit code in a [github.com/nasa](https://gi
 
 For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on [code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
-### Instructions: Once You Are a Member
+### Instructions for Once You Are a Member
 To ensure mandatory policies are followed, NASA org members are not given the full admin rights you might be used to on your personal github.com accounts. However, by using teams, team owners, collaborators, and outside collaborators roles we can make the experience pretty quick and easy.
 
 #### Org Owners
