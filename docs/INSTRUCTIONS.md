@@ -7,10 +7,11 @@
 - [Instructions for Who Can Be a Member](#instructions-for-who-can-be-a-member)
 - [Instructions for Once You Are a Member](#instructions-for-once-you-are-a-member)
 - [Use of Large File Storage and GitHub Actions](#use-of-large-file-storage-and-github-actions)
-- [](#)
-- [](#)
-
-
+- [GitHubPages and Websites](#github-pages-and-websites)
+- [Enabling Discussions and Other Beta Features](#enabling-discussions-and-other-beta-features)
+- [Most Common Requests](#most-common-frequests)
+- [Related Sites](#related-sites)
+- [Questions](#questions)
 
 
 ## Purpose
@@ -78,17 +79,17 @@ Please reach out to us if you have any questions.
 ### Use of Large File Storage and GitHub Actions
 <a href="https://git-lfs.github.com/">Large File Storage</a> (LFS) and <a href="https://github.com/features/actions">GitHub Actions</a> are two services for GitHub repositories that can be enabled and may result in extra costs that the NASA org on github.com has to pay. Currently, the policy is to enable these features on a per repository basis as requested for limited use. This level of use over a small number of repositories hasn't resulted in charges above our very limited budget. If you would like to use either of these services extensively, please each out to the contact email. 
 
-### GitHubPages and "Websites"
+### GitHubPages and Websites
 You must contact an administrator to help you turn on GitHub pages. Please let them know the branch being used and whether the starting `index.html` file is under the top level of the repository or the `docs` folder. 
 
 <i>PLEASE NOTE: GitHub pages can be used for documentation of NASA open source code. You can not use GitHub pages to stand up a NASA website as it will not be under the nasa.gov domain.</i> Please contact the github.com/nasa administrators listed elsewhere on this page if you have any questions about the interpretation of this policy.
 
-### Enabling "Discussions" and Other Beta Features
+### Enabling Discussions and Other Beta Features
 There are some repository configuration, especially for beta features of GitHub, that are not enabled by default. These often need to be enabled in the settings menu, which is not always available for users who only have write access. If there is a feature you see elsewhere in GitHub.com that you don't see enabled on your repository, please reach out to the administrator email. We will see if that is a feature we can enable for you.
 
 One example, would be "discussions", which is a place to have discussions that don't fall squarely within "issues" or "pull requests". Reach out to the contact email to get "discussions" enabled on a NASA repository that you can write access to. Include your name, email, GitHub username, and repository name.
 
-### Common Request & Process Combinations
+### Most Common Requests
 <hr>
 Need: <i>If you need to be added to the NASA org on github.com/</i>
 
@@ -172,6 +173,6 @@ It also includes some older software products that are only available as downloa
 Screenshot of NASA's software categories
 
 
-## Questions?
+## Questions
 If you have questions, you may leave an issue on this repository or contact us via <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>. We will use those questions & answers to eventually make a FAQ section on this page.
 
