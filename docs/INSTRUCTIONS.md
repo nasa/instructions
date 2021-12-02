@@ -99,7 +99,7 @@ Need: <i>If you need to be added to the NASA org on github.com/</i>
 - Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
 
->--->THIS IS THE MOST COMMON REQUEST<---
+--->THIS IS THE MOST COMMON REQUEST<---
 
 Need: <i>If you need to add a new open-sourced repository to github.com/nasa that has already been approved via the software release authority process.</i>
 
