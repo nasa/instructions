@@ -74,7 +74,7 @@ One example, would be "discussions", which is a place to have discussions that d
 
 ### Common Request & Process Combinations
 <hr>
-Need: *If you need to be added to the NASA org on github.com/*
+Need: <i>If you need to be added to the NASA org on github.com/</i>
 
 - Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
