@@ -2,10 +2,22 @@
 
 # INSTRUCTIONS FILE FOR NASA's PUBLIC GITHUB ORGANIZATION
 
+## Table of Contents
+- [Purpose](#purpose)
+- [Instructions for Who Can Be a Member](#instructions-for-who-can-be-a-member)
+- [Instructions for Once You Are a Member](#instructions-for-once-you-are-a-member)
+- [Use of Large File Storage and GitHub Actions](#use-of-large-file-storage-and-github-actions)
+- [GitHubPages and Websites](#githubpages-and-websites)
+- [Enabling Discussions and Other Beta Features](#enabling-discussions-and-other-beta-features)
+- [Most Common Requests](#most-common-requests)
+- [Related Sites](#related-sites)
+- [Questions](#questions)
+
+
 ## Purpose
 This GitHub organization is intended to publicly host NASA code that has been SRA-approved for open source. You can review the SRA (software release authority) process for getting open-source approval on [https://code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
-## Instructions: Who Can Be a Member
+## Instructions for Who Can Be a Member
 Only NASA staff can be a member of the NASA org on github.com and release code in [github.com/nasa](https://github.com/nasa) org.
 
 If you are a NASA civil servant or contractor and would like to be added to the Public NASA GitHub Org, you will need to submit the AGCY NASA Github Collaborator Form [NAMS request ](https://nams.nasa.gov) https://nams.nasa.gov. This requires you to be behind the NASA firewall. If you were a member several years ago and recently found you are no longer a member, please see this [note](https://github.com/nasa/nasa.github.io/issues/2).
@@ -14,7 +26,7 @@ Only members have rights to directly edit code in a [github.com/nasa](https://gi
 
 For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on [code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
-### Instructions: Once You Are a Member
+### Instructions for Once You Are a Member
 To ensure mandatory policies are followed, NASA org members are not given the full admin rights you might be used to on your personal github.com accounts. However, by using teams, team owners, collaborators, and outside collaborators roles we can make the experience pretty quick and easy.
 
 #### Org Owners
@@ -67,28 +79,31 @@ Please reach out to us if you have any questions.
 ### Use of Large File Storage and GitHub Actions
 <a href="https://git-lfs.github.com/">Large File Storage</a> (LFS) and <a href="https://github.com/features/actions">GitHub Actions</a> are two services for GitHub repositories that can be enabled and may result in extra costs that the NASA org on github.com has to pay. Currently, the policy is to enable these features on a per repository basis as requested for limited use. This level of use over a small number of repositories hasn't resulted in charges above our very limited budget. If you would like to use either of these services extensively, please each out to the contact email. 
 
-### GitHubPages and "Websites"
+### GitHubPages and Websites
 You must contact an administrator to help you turn on GitHub pages. Please let them know the branch being used and whether the starting `index.html` file is under the top level of the repository or the `docs` folder. 
 
 <i>PLEASE NOTE: GitHub pages can be used for documentation of NASA open source code. You can not use GitHub pages to stand up a NASA website as it will not be under the nasa.gov domain.</i> Please contact the github.com/nasa administrators listed elsewhere on this page if you have any questions about the interpretation of this policy.
 
-### Enabling "Discussions" and Other Beta Features
+##### Why is this now just a markdown file instead of a website?
+These instructions were previously made into a website. The fact that it looked like a website, not documentation, and lacked a nasa.gov domain caused it to attract negative attention. Hence, it was reverted back into a markdown file document format. Apologies to those who submitted pull requests to improve the old site.
+
+### Enabling Discussions and Other Beta Features
 There are some repository configuration, especially for beta features of GitHub, that are not enabled by default. These often need to be enabled in the settings menu, which is not always available for users who only have write access. If there is a feature you see elsewhere in GitHub.com that you don't see enabled on your repository, please reach out to the administrator email. We will see if that is a feature we can enable for you.
 
 One example, would be "discussions", which is a place to have discussions that don't fall squarely within "issues" or "pull requests". Reach out to the contact email to get "discussions" enabled on a NASA repository that you can write access to. Include your name, email, GitHub username, and repository name.
 
-### Common Request & Process Combinations
+### Most Common Requests
 <hr>
 Need: <i>If you need to be added to the NASA org on github.com/</i>
 
 - Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
 
->--->THIS IS THE MOST COMMON REQUEST<---
+--->THIS IS THE MOST COMMON REQUEST<---
 
 Need: <i>If you need to add a new open-sourced repository to github.com/nasa that has already been approved via the software release authority process.</i>
 
-- Make or modify a request to start a new repository in github.com/nasa via the <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into. Please note that you will not be able to get to that link if you are not inside the NASA firewall. In your NAMs request, please include all the required metadata describing the respository listed in the "REPO" section above. If this is the first repository you're open sourcing, you might also want to read through the longer description of how to supply the metadata <a href="https://github.com/nasa/instructions/blob/master/docs/about_section_instructions.md"here</a>.
+- Make or modify a request to start a new repository in github.com/nasa via the <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into. Please note that you will not be able to get to that link if you are not inside the NASA firewall. In your NAMs request, please include all the required metadata describing the respository listed in the "REPO" section above. If this is the first repository you're open sourcing, you might also want to read through the longer description of how to supply the metadata <a href="https://github.com/nasa/instructions/blob/master/docs/about_section_instructions.md">here</a>.
 <hr>
 Need: <i>If you need to create a new team for managing who has access to make changes on a particular repository or group of repositories.</i>
 
@@ -108,9 +123,6 @@ Need: <i>Someone submitted a spam pull request to a NASA repository. That user n
 - Send an email to an NASA org admin using the standard contact email listed on this page. Supply a link to the issue or pull request with the spam and the username of who is to be blocked. 
 
 <hr>
-
-## Why is this now just a markdown file instead of a website
-There was some concern over a website with NASA related information that is not purely documentation for an open sourced code project on github.com/nasa with a domain ending that is not nasa.gov. Hence, the instructions for use of github.com/nasa on https://nasa.github.io/ was shifted to this markdown file that is not a website but rather a file. Apologies to those who submitted pull requests to improve the old site.
 
 ## Related Sites
 ### Organizationally Related Sites
@@ -161,6 +173,6 @@ It also includes some older software products that are only available as downloa
 Screenshot of NASA's software categories
 
 
-## Questions?
+## Questions
 If you have questions, you may leave an issue on this repository or contact us via <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>. We will use those questions & answers to eventually make a FAQ section on this page.
 
