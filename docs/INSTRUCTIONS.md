@@ -76,18 +76,18 @@ One example, would be "discussions", which is a place to have discussions that d
 <hr>
 Need: *If you need to be added to the NASA org on github.com/*
 
-Process: Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
+- Create a personal github account and then request to be added as a Github Collaborator via a new or modified <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please include your github id in the request. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
 
 ---THIS IS THE MOST COMMON REQUEST---
 
 Need: <i>If you need to add a new open-sourced repository to github.com/nasa that has already been approved via the software release authority process.</i>
 
-Process: Make or modify a request to start a new repository in github.com/nasa via the <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into. Please note that you will not be able to get to that link if you are not inside the NASA firewall. In your NAMs request, please include all the required metadata describing the respository listed in the "REPO" section above. If this is the first repository you're open sourcing, you might also want to read through the longer description of how to supply the metadata <a href="https://github.com/nasa/instructions/blob/master/docs/about_section_instructions.md"here</a>.
+- Make or modify a request to start a new repository in github.com/nasa via the <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a>. Please give it a useful name and good documentation! We'll create a blank repository for you to put the code into. Please note that you will not be able to get to that link if you are not inside the NASA firewall. In your NAMs request, please include all the required metadata describing the respository listed in the "REPO" section above. If this is the first repository you're open sourcing, you might also want to read through the longer description of how to supply the metadata <a href="https://github.com/nasa/instructions/blob/master/docs/about_section_instructions.md"here</a>.
 <hr>
 Need: <i>If you need to create a new team for managing who has access to make changes on a particular repository or group of repositories.</i>
 
-Process: Modify your <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a> to request the team creation or email the two owners above. Give team name and which repositories team members should be given access to. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
+- Modify your <a href="https://idmax.nasa.gov/nams/asset/227756">NAMs request</a> to request the team creation or email the two owners above. Give team name and which repositories team members should be given access to. Please note that you will not be able to get to that link if you are not inside the NASA firewall.
 <hr>
 Need: <i>If you need to add a new member to an already established team.</i>
 
@@ -95,12 +95,12 @@ Need: <i>If you need to add a new member to an already established team.</i>
 <hr>
 Need: <i>I accidentally committed something that needs to be deleted from all git history. How do I do that?</i>
 
-Process: Check out the instructions here: https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository#using-the-bfg 
+- Check out the instructions here: https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository#using-the-bfg 
 <hr>
 
 Need: <i>Someone submitted a spam pull request to a NASA repository. That user needs blocked from all NASA repositories. </i>
 
-Process: Send an email to an NASA org admin using the standard contact email listed on this page. Supply a link to the issue or pull request with the spam and the username of who is to be blocked. 
+- Send an email to an NASA org admin using the standard contact email listed on this page. Supply a link to the issue or pull request with the spam and the username of who is to be blocked. 
 
 <hr>
 
