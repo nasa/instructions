@@ -9,7 +9,7 @@
 - [Use of Large File Storage and GitHub Actions](#use-of-large-file-storage-and-github-actions)
 - [GitHubPages and Websites](#githubpages-and-websites)
 - [Enabling Discussions and Other Beta Features](#enabling-discussions-and-other-beta-features)
-- [Most Common Requests](#most-common-frequests)
+- [Most Common Requests](#most-common-requests)
 - [Related Sites](#related-sites)
 - [Questions](#questions)
 
