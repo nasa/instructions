@@ -27,18 +27,20 @@ Only members have rights to directly edit code in a [github.com/nasa](https://gi
 For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on [code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
 ### Instructions for Once You Are a Member
+<i>Please read these instructions in full as using github.com/nasa has some differences with how you might be familar using github.com on personal projects.</i>
+
 To ensure mandatory policies are followed, NASA org members are not given the full admin rights you might be used to on your personal github.com accounts. However, by using teams, team owners, collaborators, and outside collaborators roles we can make the experience pretty quick and easy.
 
 #### Org Owners
-Only org owners have the ability to create new repositories and bring new users in as members of the NASA github org.
-
 We currently have two active owner in the org:
-
-Justin Gosses : github username = JustinGOSSES
 
 Miles Crabbe : github username = MilesCrabbe
 
+Elizabeth Wainwright : github username = elizabeth-wainwright
+
 A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
+
+<b>Only org owners have the ability to create new repositories, bring new users in as members of the NASA github org, and make changes to settings of repositories</b>. If there is something a member of the nasa org can not do that this arragement prevents, please reach out.
 
 #### Repos
 We do not give out admin rights on any NASA Github repos for reasons stated above. If you want a new repo created or want to edit settings on an existing repo that require admin access, please contact one of our org owners. Without admin rights on a repository, you'll still be able to make any code changes yourself as long as you're a collaborator on that repository or a member of a team whose participants are collaborators by default.
