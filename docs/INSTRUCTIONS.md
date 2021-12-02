@@ -84,6 +84,9 @@ You must contact an administrator to help you turn on GitHub pages. Please let t
 
 <i>PLEASE NOTE: GitHub pages can be used for documentation of NASA open source code. You can not use GitHub pages to stand up a NASA website as it will not be under the nasa.gov domain.</i> Please contact the github.com/nasa administrators listed elsewhere on this page if you have any questions about the interpretation of this policy.
 
+##### Why is this now just a markdown file instead of a website?
+These instructions were previously made into a website. The fact that it looked like a website, not documentation, and lacked a nasa.gov domain caused it to attract negative attention. Hence, it was reverted back into a markdown file document format. Apologies to those who submitted pull requests to improve the old site.
+
 ### Enabling Discussions and Other Beta Features
 There are some repository configuration, especially for beta features of GitHub, that are not enabled by default. These often need to be enabled in the settings menu, which is not always available for users who only have write access. If there is a feature you see elsewhere in GitHub.com that you don't see enabled on your repository, please reach out to the administrator email. We will see if that is a feature we can enable for you.
 
