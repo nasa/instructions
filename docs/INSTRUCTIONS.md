@@ -124,9 +124,6 @@ Need: <i>Someone submitted a spam pull request to a NASA repository. That user n
 
 <hr>
 
-## Why is this now just a markdown file instead of a website
-There was some concern over a website with NASA related information that is not purely documentation for an open sourced code project on github.com/nasa with a domain ending that is not nasa.gov. Hence, the instructions for use of github.com/nasa on https://nasa.github.io/ was shifted to this markdown file that is not a website but rather a file. Apologies to those who submitted pull requests to improve the old site.
-
 ## Related Sites
 ### Organizationally Related Sites
 In addition to github.com/nasa, NASA OCIO's Transformation and Data Division Open-Innovation staff also run:
