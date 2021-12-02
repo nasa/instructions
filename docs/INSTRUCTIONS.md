@@ -2,6 +2,17 @@
 
 # INSTRUCTIONS FILE FOR NASA's PUBLIC GITHUB ORGANIZATION
 
+## Table of Contents
+- [Purpose](#purpose)
+- [Instructions: Who Can Be a Member](#instructions:-who-can-be-a-member)
+- [Instructions: Once You Are a Member](#instructions:-once-you-are-a-member)
+- [Use of Large File Storage and GitHub Actions](#use-of-large-file-storage-and-github-actions)
+- [](#)
+- [](#)
+
+
+
+
 ## Purpose
 This GitHub organization is intended to publicly host NASA code that has been SRA-approved for open source. You can review the SRA (software release authority) process for getting open-source approval on [https://code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
