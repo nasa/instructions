@@ -67,6 +67,11 @@ Please reach out to us if you have any questions.
 ### Use of Large File Storage and GitHub Actions
 <a href="https://git-lfs.github.com/">Large File Storage</a> (LFS) and <a href="https://github.com/features/actions">GitHub Actions</a> are two services for GitHub repositories that can be enabled and may result in extra costs that the NASA org on github.com has to pay. Currently, the policy is to enable these features on a per repository basis as requested for limited use. This level of use over a small number of repositories hasn't resulted in charges above our very limited budget. If you would like to use either of these services extensively, please each out to the contact email. 
 
+### GitHubPages and "Websites"
+You must contact an administrator to help you turn on GitHub pages. Please let them know the branch being used and whether the starting `index.html` file is under the top level of the repository or the `docs` folder. 
+
+<i>PLEASE NOTE: GitHub pages can be used for documentation of NASA open source code. You can not use GitHub pages to stand up a NASA website as it will not be under the nasa.gov domain.</i> Please contact the github.com/nasa administrators listed elsewhere on this page if you have any questions about the interpretation of this policy.
+
 ### Enabling "Discussions" and Other Beta Features
 There are some repository configuration, especially for beta features of GitHub, that are not enabled by default. These often need to be enabled in the settings menu, which is not always available for users who only have write access. If there is a feature you see elsewhere in GitHub.com that you don't see enabled on your repository, please reach out to the administrator email. We will see if that is a feature we can enable for you.
 
