@@ -27,7 +27,7 @@ Only members have rights to directly edit code in a [github.com/nasa](https://gi
 For information on how to become a member of the NASA Org (you need to be a NASA civil servant or contractor with access to systems inside the NASA firewall), please see the instructions on [code.nasa.gov/#/guide](https://code.nasa.gov/#/guide).
 
 ### Instructions for Once You Are a Member
-<i>Please read these instructions in full as using github.com/nasa has some differences with how you might be familar using a personal github.com account.</i>
+<i>Please read these instructions in full as using github.com/nasa has some differences with how you might be familar using github.com on personal projects.</i>
 
 To ensure mandatory policies are followed, NASA org members are not given the full admin rights you might be used to on your personal github.com accounts. However, by using teams, team owners, collaborators, and outside collaborators roles we can make the experience pretty quick and easy.
 
