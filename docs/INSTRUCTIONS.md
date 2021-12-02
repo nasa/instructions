@@ -7,7 +7,7 @@
 - [Instructions for Who Can Be a Member](#instructions-for-who-can-be-a-member)
 - [Instructions for Once You Are a Member](#instructions-for-once-you-are-a-member)
 - [Use of Large File Storage and GitHub Actions](#use-of-large-file-storage-and-github-actions)
-- [GitHubPages and Websites](#github-pages-and-websites)
+- [GitHubPages and Websites](#githubpages-and-websites)
 - [Enabling Discussions and Other Beta Features](#enabling-discussions-and-other-beta-features)
 - [Most Common Requests](#most-common-frequests)
 - [Related Sites](#related-sites)
