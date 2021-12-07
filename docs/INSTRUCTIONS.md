@@ -141,6 +141,9 @@ In addition to github.com/nasa, NASA OCIO's Transformation and Data Division Ope
 ### Open Source Related Pages on NASA.GOV
 The page https://www.nasa.gov/open/open-source-development.html has some high level history and information regarding open source at NASA.
 
+### Information on Internal Code Platforms
+<a href="https://wiki.jsc.nasa.gov/fod/index.php/Knowledge_Any_Developer_New_to_NASA_Will_Need_to_Know">Internal information</a> on internal code platforms
+
 ### Why is NASA's Open Source Code in multiple locations?
 The reason for NASA open source code existing in different places boils down to different requirements, both requirements of those writing the code and requirements from above.
 
