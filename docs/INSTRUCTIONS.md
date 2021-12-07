@@ -81,6 +81,11 @@ Please reach out to us if you have any questions.
 ### Use of Large File Storage and GitHub Actions
 <a href="https://git-lfs.github.com/">Large File Storage</a> (LFS) and <a href="https://github.com/features/actions">GitHub Actions</a> are two services for GitHub repositories that can be enabled and may result in extra costs that the NASA org on github.com has to pay. Currently, the policy is to enable these features on a per repository basis as requested for limited use. This level of use over a small number of repositories hasn't resulted in charges above our very limited budget. If you would like to use either of these services extensively, please each out to the contact email. 
 
+### Billing Plan & Impact on Features
+A very small number of GitHub features depend on what billing plan your organization uses. This varies over time, so please refer to GitHub documentation for this information.
+
+GitHub.com/nasa is NOT on an Enterprise plan by choice. If we were on Enterprise plan, it would internally trigger pay-per-seat rules and evenetually result in less developers open sourcing their code and less developers open sourcing on github.com/nasa where it is easy for the public to find the code. Github.com/nasa is on a legacy org billing plan until October 1st, 2022 at which time it switches to a “free” plan. Free plan has costs for GitHubActions and Package storage, so there may be a future point in time when those features are curtailed for heavy users as not being on an Enterprise plan means no invoice and no invoice makes paying for anything at NASA very hard. Being on these billing plans makes it possible for GitHub.com/nasa to be effectively free for individual NASA developers and teams, thereby maximizing open source.
+
 ### GitHubPages and Websites
 You must contact an administrator to help you turn on GitHub pages. Please let them know the branch being used and whether the starting `index.html` file is under the top level of the repository or the `docs` folder. 
 
