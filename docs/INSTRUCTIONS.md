@@ -7,7 +7,7 @@
 - [Instructions for Who Can Be a Member](#instructions-for-who-can-be-a-member)
 - [Instructions for Once You Are a Member](#instructions-for-once-you-are-a-member)
 - [Use of Large File Storage and GitHub Actions](#use-of-large-file-storage-and-github-actions)
-- [GitHubPages and Websites](#githubpages-and-websites)
+- [GitHub Pages and Websites](#githubpages-and-websites)
 - [Enabling Discussions and Other Beta Features](#enabling-discussions-and-other-beta-features)
 - [Most Common Requests](#most-common-requests)
 - [Related Sites](#related-sites)
@@ -86,7 +86,7 @@ A very small number of GitHub features depend on what billing plan your organiza
 
 Github.com/nasa is on a "legacy" billing plan until October 1st, 2022 at which time it switches to a “free” plan. Free plan has costs for GitHubActions and Package storage, so there may be a future point in time when those features would be curtailed for the heaviest users. Any change would be announced. GitHub.com/nasa is not on an Enterprise plan as it would trigger internal policies that would require payment at the individual level resulting in less open source code released.
 
-### GitHubPages and Websites
+### GitHub Pages and Websites
 You must contact an administrator to help you turn on GitHub pages. Please let them know the branch being used and whether the starting `index.html` file is under the top level of the repository or the `docs` folder. 
 
 <i>PLEASE NOTE: GitHub pages can be used for documentation of NASA open source code. You can not use GitHub pages to stand up a NASA website as it will not be under the nasa.gov domain.</i> Please contact the github.com/nasa administrators listed elsewhere on this page if you have any questions about the interpretation of this policy.
