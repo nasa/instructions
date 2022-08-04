@@ -40,7 +40,7 @@ Elizabeth Wainwright : github username = elizabeth-wainwright
 
 A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
 
-<b>Only org owners have the ability to create new repositories, bring new users in as members of the NASA github org, and make changes to settings of repositories</b>. If there is something a member of the nasa org can not do that this arragement prevents, please reach out.
+<b>Only org owners have the ability to create new repositories, bring new users in as members of the NASA github org, and make changes to settings of repositories</b>. If there is something a member of the nasa org can not do that this arrangement prevents, please reach out.
 
 #### Repos
 We do not give out admin rights on any NASA Github repos for reasons stated above. If you want a new repo created or want to edit settings on an existing repo that require admin access, please contact one of our org owners. Without admin rights on a repository, you'll still be able to make any code changes yourself as long as you're a collaborator on that repository or a member of a team whose participants are collaborators by default.
