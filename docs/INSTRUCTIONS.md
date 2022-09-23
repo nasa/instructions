@@ -34,9 +34,12 @@ To ensure mandatory policies are followed, NASA org members are not given the fu
 #### Org Owners
 We currently have two active owner in the org:
 
-Miles Crabbe : github username = MilesCrabbe
+Darith Yim : github username = dsyim
 
-Elizabeth Wainwright : github username = elizabeth-wainwright
+Jeffery Rubio : github username = jjrubio2
+<!--Miles Crabbe : github username = MilesCrabbe
+
+Elizabeth Wainwright : github username = elizabeth-wainwright-->
 
 A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
 
