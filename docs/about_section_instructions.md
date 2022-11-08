@@ -78,8 +78,6 @@ Good examples of topic tags are domains, fields of study, frameworks used, publi
 
 For examples of good tags, you can look at the tags on code.nasa.gov https://code.nasa.gov/ . Below each code project description is a list of both human populated tags and machine-learning generated tags. When you submit a new project to be cataloged on code.nasa.gov, <a href="https://code.nasa.gov/#/guide">which is mandatory for all open-source release</a>, it triggers a pipeline that generates the machine-learning generated tags.
 
-If you are behind the NASA firewall, you can use <a href="https://compute.analytics.nasa.gov/">this website</a> to submit text that describes your code project and get back machine-learning generated topic tags. 
-
 ### Required Tags For Any Machine Learning Related Code
 A.I. Related Datasets Need New OMB Mandated Tags
 
