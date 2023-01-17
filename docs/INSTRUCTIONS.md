@@ -32,11 +32,16 @@ For information on how to become a member of the NASA Org (you need to be a NASA
 To ensure mandatory policies are followed, NASA org members are not given the full admin rights you might be used to on your personal github.com accounts. However, by using teams, team owners, collaborators, and outside collaborators roles we can make the experience pretty quick and easy.
 
 #### Org Owners
-We currently have two active owner in the org:
+We currently have four active owners in the org:
 
 Darith Yim : github username = dsyim
 
 Jeffery Rubio : github username = jjrubio2
+
+Daniel Rendon : github username = dcrendon
+
+Justin Locke : github username = justwlocke
+
 <!--Miles Crabbe : github username = MilesCrabbe
 
 Elizabeth Wainwright : github username = elizabeth-wainwright-->
