@@ -47,7 +47,7 @@ Miles Crabbe : github username = MilesCrabbe
 
 Elizabeth Wainwright : github username = elizabeth-wainwright-->
 
-A general purpose contact email is <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
+A general purpose contact email is <a href="mailto:hq-open-innovation@mail.nasa.gov">hq-open-innovation@mail.nasa.gov</a>, please mention the specific nature of your question as this email is also used on data.nasa.gov & api.nasa.gov. 
 
 <b>Only org owners have the ability to create new repositories, bring new users in as members of the NASA github org, and make changes to settings of repositories</b>. If there is something a member of the nasa org can not do that this arragement prevents, please reach out.
 
@@ -193,5 +193,5 @@ Screenshot of NASA's software categories
 
 
 ## Questions
-If you have questions, you may leave an issue on this repository or contact us via <a href="mailto:nasa-data@lists.arc.nasa.gov">nasa-data@lists.arc.nasa.gov</a>. We will use those questions & answers to eventually make a FAQ section on this page.
+If you have questions, you may leave an issue on this repository or contact us via <a href="mailto:hq-open-innovation@mail.nasa.gov">hq-open-innovation@mail.nasa.gov</a>. We will use those questions & answers to eventually make a FAQ section on this page.
 
