@@ -59,10 +59,10 @@ A general purpose contact email is <a href="mailto:hq-open-innovation@mail.nasa.
 We do not give out admin rights on any NASA Github repos for reasons stated above. If you want a new repo created or want to edit settings on an existing repo that require admin access, please contact one of our org owners. Without admin rights on a repository, you'll still be able to make any code changes yourself as long as you're a collaborator on that repository or a member of a team whose participants are collaborators by default.
 
 ##### Required Information When Requesting New Repository
-If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request with the follwing information:
+If you need for a new repository (and it has gotten SRA approval) please either submit a modification to your NAMs request with the following information:
 
 - **Name of the repository**
-- About Tab Information: These will appear on the repo's home page in the "about" section. They are extractable as metadata and assist  in discoverability.
+- About Tab Information: These will appear on the repo's home page in the "about" section. They are extractable as metadata and assist in discoverability.
   - **Topic tags** that describe the repository. 
   - **A 350 character or less description** of the repository. 
   - **Website Link** : If you intend to start up a github pages site for documentation or have a link that goes elsewhere with that information, supply it for the about section as well.
@@ -108,7 +108,7 @@ You must contact an administrator to help you turn on GitHub pages. Please let t
 These instructions were previously made into a website. The fact that it looked like a website, not documentation, and lacked a nasa.gov domain caused it to attract negative attention. Hence, it was reverted back into a markdown file document format. Apologies to those who submitted pull requests to improve the old site.
 
 ### Enabling Discussions and Other Beta Features
-There are some repository configuration, especially for beta features of GitHub, that are not enabled by default. These often need to be enabled in the settings menu, which is not always available for users who only have write access. If there is a feature you see elsewhere in GitHub.com that you don't see enabled on your repository, please reach out to the administrator email. We will see if that is a feature we can enable for you.
+There are some repository configurations, especially for beta features of GitHub, that are not enabled by default. These often need to be enabled in the settings menu, which is not always available for users who only have write access. If there is a feature you see elsewhere in GitHub.com that you don't see enabled on your repository, please reach out to the administrator email. We will see if that is a feature we can enable for you.
 
 One example, would be "discussions", which is a place to have discussions that don't fall squarely within "issues" or "pull requests". Reach out to the contact email to get "discussions" enabled on a NASA repository that you can write access to. Include your name, email, GitHub username, and repository name.
 
