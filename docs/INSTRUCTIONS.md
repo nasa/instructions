@@ -44,7 +44,6 @@ Daniel Rendon : github username = dcrendon
 
 Tessa Brazda : github username = tmbrazda
 
-Kelli Mars : github username = kmmars79
 
 <!--
 Miles Crabbe : github username = MilesCrabbe
