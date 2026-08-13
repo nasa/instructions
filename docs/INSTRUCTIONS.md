@@ -46,11 +46,6 @@ Tessa Brazda: GitHub username = tmbrazda
 
 Andre Gueret: GitHub username = AndreGueretNASA
 
-<!--
-Miles Crabbe : GitHub username = MilesCrabbe
-
-Elizabeth Wainwright : GitHub username = elizabeth-wainwright-->
-
 A general-purpose contact email is <a href="mailto:hq-open-innovation@mail.nasa.gov">hq-open-innovation@mail.nasa.gov</a>. Please mention the specific nature of your question, as this email is also used for data.nasa.gov & api.nasa.gov. <b>Only organization owners have the ability to create new repositories, bring new users in as members of the NASA GitHub organization, and make changes to the settings of repositories</b>. If there is something a member of the NASA organization cannot do that this arrangement prevents, please reach out.
 
 #### Repos
@@ -90,7 +85,7 @@ Only on a rare, case-by-case basis will we allow non-NASA users to be added to t
 Please reach out to us if you have any questions.
 
 ### Use of Large File Storage
-NASA is on a free-tier GitHub organization account that has major limitations for the Git LFS service (a maximum of 10GB for both monthly storage and monthly bandwidth, which resets on the 1st of each month), so we do not recommend using Git LFS to track large files in your repositories. Please ensure the removal of all large files from your repository and commit history. You will need to plan to host your large files on your team’s end through another available service.
+NASA is on a free-tier GitHub organization account that has major limitations for the Git LFS service (a maximum of 10GB for both monthly storage and monthly bandwidth, which resets on the 1st of each month), so we do not recommend using Git LFS to track large files in your repositories. Please ensure the removal of all large files from your repository and commit history. You will need to plan to host your large files on your team's end through another available service.
 
 ### Use of GitHub Actions
 NASA is on a free-tier GitHub organization account that has limitations for GitHub Actions (2,000 CI/CD minutes/month and FREE for public repositories). You can use execution minutes with GitHub Actions to automate your software development workflows (write tasks and combine them to build, test, and deploy any code project on GitHub).
@@ -98,7 +93,7 @@ NASA is on a free-tier GitHub organization account that has limitations for GitH
 #### Billing Plan & Impact on Features
 A very small number of GitHub features depend on what billing plan your organization uses. This varies over time, so please refer to GitHub documentation for this information.
 
-GitHub.com/nasa is on a "legacy" billing plan until October 1st, 2022, at which time it switched to a “free” plan. The free plan has costs for GitHub Actions and Package storage, so there may be a future point in time when those features would be curtailed for the heaviest users. Any change would be announced. GitHub.com/nasa is not on an Enterprise plan, as it would trigger internal policies that require payment at the individual level, resulting in less open-source code being released.
+GitHub.com/nasa is on a "legacy" billing plan until October 1st, 2022, at which time it switched to a "free" plan. The free plan has costs for GitHub Actions and Package storage, so there may be a future point in time when those features would be curtailed for the heaviest users. Any change would be announced. GitHub.com/nasa is not on an Enterprise plan, as it would trigger internal policies that require payment at the individual level, resulting in less open-source code being released.
 
 ### GitHub Pages and Websites
 You must contact an administrator to help you turn on GitHub Pages. Please let them know the branch being used and whether the starting `index.html` file is under the top level of the repository or the `docs` folder. <i>PLEASE NOTE: GitHub Pages can be used for documentation of NASA open-source code. You cannot use GitHub Pages to stand up a NASA website, as it will not be under the nasa.gov domain.</i> Please contact the GitHub.com/nasa administrators listed elsewhere on this page if you have any questions about the interpretation of this policy.
